@@ -13,6 +13,10 @@ h1 {
   font-size: 4.5em;
 }
 
+h2 {
+  font-size: 2.75em;
+}
+
 h3 {
   font-size: 2em;
 }
@@ -32,6 +36,18 @@ a {
 
 .content {
   font-size: 1.25em;
-  padding: 0 25%;
   text-align: justify;
+  font-family: sans-serif;
+}
+
+.pagination {
+  text-align: center;
+  font-size: 1.5em;
+  padding-top: 10px;
+}
+
+@media (min-width: 768px) {
+  .content {
+    padding: 0 25%;
+  }
 }

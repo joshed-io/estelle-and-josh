@@ -1,14 +1,30 @@
 {{ partial "header" . }}
 
-<h1>{{ .Title }}</h1>
+<h2>{{ .Title }}</h2>
+
+<h5>— — —</h5>
 
 <div class="content">
   {{ .Page.Content }}
 </div>
 
+<div class="pagination">
+  {{ if .PrevInSection }}
+    <a href="{{ .PrevInSection.Permalink }}"><< back</a>
+  {{ end }}
+  {{ if and .PrevInSection .NextInSection }} | {{ end }}
+  {{ if .NextInSection }}
+    <a href="{{ .NextInSection.Permalink }}">>> continue</a>
+  {{ end }}
+</div>
+
 <h5>&middot; &middot; &middot;</h5>
 
-<h5><a href="/story/">table of contents</a></h5>
+<h5>
+  <a href="/story/">table of contents</a>
+  <br>
+  <a href="/">back home</a>
+</h5>
 
 <p class="footer">Estelle &amp; Josh, 2017</p>
 

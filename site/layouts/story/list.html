@@ -2,9 +2,11 @@
 
 <h1>Table of Contents</h1>
 
-{{ range .Data.Pages }}
-  <h5><a href="{{ .URL }}">{{ .Description }}</a></h5>
+<h5>
+{{ range .Data.Pages.Reverse }}
+  <a href="{{ .URL }}">{{ .Title }}</a><br>
 {{ end }}
+</h5>
 
 <h5>&middot; &middot; &middot;</h5>
 
