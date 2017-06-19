@@ -5,7 +5,7 @@ date = "2017-06-01"
 tags = []
 +++
 
-I didn't meet Estelle at a bar, a restaurant, at work or through a friend. I didn't meet Estelle on the Internet. I met Estelle in a mud pit. A mud pit 8,000 miles from home.
+I didn't meet Estelle at a bar, a restaurant, at work or through a friend. I didn't meet Estelle on the Internet. I met Estelle in a mud pit 8,000 miles from home.
 
 The mud in this mud pit was a mixture of gravel and clay. As volunteers, Estelle and I were excavating it by the handful so that it could be used to make adobe bricks. We were two of around thirty international volunteers staying at the Mindfulness Project in the northern Issan region of Thailand.
 
