@@ -1,1 +1,12 @@
 @import "imports/reset.css";
+
+body {
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  font-size: 2em;
+}
+
+h3 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1em;
+}
