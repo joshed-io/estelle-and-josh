@@ -1,12 +1,14 @@
 {{ partial "header" . }}
 
-<h1>Two people who like each other</h1>
+<h1>{{ .Title }}</h1>
 
-<h3>enough to get married</h3>
-
-<h5><a href="/story/">read our story</a></h5>
+<div class="content">
+  {{ .Page.Content }}
+</div>
 
 <h5>&middot; &middot; &middot;</h5>
+
+<h5><a href="/story/">table of contents</a></h5>
 
 <p class="footer">Estelle &amp; Josh, 2017</p>
 

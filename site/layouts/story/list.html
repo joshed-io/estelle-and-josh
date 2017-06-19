@@ -1,0 +1,15 @@
+{{ partial "header" . }}
+
+<h1>Table of Contents</h1>
+
+{{ range .Data.Pages }}
+  <h5><a href="{{ .URL }}">{{ .Description }}</a></h5>
+{{ end }}
+
+<h5>&middot; &middot; &middot;</h5>
+
+<h5><a href="/">back home</a></h5>
+
+<p class="footer">Estelle &amp; Josh, 2017</p>
+
+{{ partial "footer" . }}

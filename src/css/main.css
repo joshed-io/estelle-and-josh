@@ -1,12 +1,37 @@
 @import "imports/reset.css";
 
 body {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
   text-align: center;
-  font-size: 2em;
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 4.5em;
 }
 
 h3 {
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 1em;
+  font-size: 2em;
+}
+
+h5 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5em;
+}
+
+p.footer {
+  text-align: center;
+}
+
+a {
+  color: blue;
+}
+
+.content {
+  font-size: 1.25em;
+  padding: 0 25%;
+  text-align: justify;
 }
