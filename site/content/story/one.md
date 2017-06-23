@@ -11,9 +11,9 @@ The mud in this pit was a mixture of gravel and clay. As volunteers, Estelle and
 
 It was July of 2015.
 
-Estelle arrived two weeks after Skip and I, my backpacking trip companion. It was Skip who chose Thailand and Skip who chose the Mindfulness Project.
+Estelle arrived two weeks after Skip and I. Skip was my backpacking trip companion. It was Skip who chose Thailand and found the Mindfulness Project.
 
-The first thing I noticed about Estelle was that she spoke fast. The second thing I noticed was that she spoke her mind. Her uninhibited style stuck out in project's more laid-back, passive atmosphere. Estelle made me laugh just being herself. Her style got my attention, and one day I sat down next to her during an iced coffee break.
+The first thing I noticed about Estelle was that she spoke fast. I noticed was that she spoke her mind. Her uninhibited style stuck out in project's more laid-back, passive atmosphere. From the beginning, Estelle could make me laugh just by being herself. Her style got my attention. One day I sat down next to her during an iced coffee break.
 
 I'd been reading a book called *Lila*, which is the sequel to the famous American novel *Zen and the Art of Motorcycle Maintenance*. Anybody can love *ZMM* because it has a cool title and a plot about motorcycle riding. *Lila*, however, has no motorcycles, a poor title, and a sketchy plot. Lila's metaphysics though are quite good and for an hour I tried to explain the combined metaphysics of these two books to Estelle. It was a risk.
 
