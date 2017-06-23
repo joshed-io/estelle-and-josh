@@ -7,7 +7,7 @@ tags = []
 
 At night, Estelle would go for a jog through the forest so she could listen to her podcasts. These podcasts had clever names and hosts with British accents. I found this peculiar, concerning, and brave.
 
-But I also understood. There was no privacy at the Mindfulness Project. There were thirty volunteers who slept in two large rooms, with one person per see-thru mosquito net. Going for a run at night was a smart way to get alone time. Each night Estelle would take advantage of this. Before I knew it, she'd have disappeared into the trees.
+But I also understood. There was no privacy at the Mindfulness Project. There were thirty volunteers who slept in two large rooms, with one person per see-thru mosquito net. Going for a run at night was one of the only ways to get alone time. Each night Estelle would take advantage of this. Before I knew it, she'd have disappeared into the trees.
 
 There were moments when I wasn't sure that Estelle was real. Moments that I wondered if I had dreamed her up. I hadn't met someone like her before. She was a puzzle.
 
