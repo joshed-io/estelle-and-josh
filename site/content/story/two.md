@@ -15,4 +15,4 @@ One day I asked Estelle to have dinner with me. This was a risk. The proposed da
 
 At the time I didn't know what type of connection that Estelle and I had. The chance that it was a romantic connection seemed small. Still, dinner with 2 people would be a nice change compared to 30, and I knew that Estelle made me laugh, so why not?
 
-We shared a bottle of wine and a handful of tapas. I felt like our rapport shifted from academic to personal. We talked about why we had come to the Mindfulness Project in the first place, and about the traumatic years we had just experienced.
+We shared a bottle of wine and a series of small plates. Our rapport shifted from academic to personal. We talked about why we had come to the Mindfulness Project. We talked about the traumatic years we were still in the middle of.
