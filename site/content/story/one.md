@@ -19,4 +19,4 @@ I'd been reading a book called *Lila*, which is the sequel to the famous America
 
 Maybe the iced coffee was particularly strong (or cold) that day.
 
-Estelle listened and was ahead of me with every sentence I spoke. She educated me about the connections between the "metaphysics" I was describing and the celebrated conclusions of the great philosophers and metaphysicians that she had studied in detail while obtaining one or more of her PHDs. I shrank to the size of a mosquito. What I had feared was now certain - Estelle was way too smart for me.
+Estelle listened and was ahead of me with every sentence I spoke. She educated me about the connections between the "metaphysics" I was describing and the celebrated conclusions of the great philosophers and metaphysicians that she had studied in detail while obtaining one or more of her PHDs. I shrank to the size of a mosquito. What I had suspected I knew to be true - Estelle was way too smart for me.
