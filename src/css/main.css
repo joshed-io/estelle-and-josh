@@ -1,32 +1,55 @@
 @import "imports/reset.css";
+@import "imports/fonts.css";
 
 body {
+  padding: 8px;
   font-family: 'Josefin Sans', sans-serif;
 }
 
 h1, h2, h3, h4, h5 {
   text-align: center;
+  margin: 1em 0;
 }
 
 h1 {
-  font-family: 'Indie Flower', cursive;
-  font-size: 4.5em;
+  font-family: MagicalMysteryTour;
+  font-size: 32px;
 }
 
 h2 {
-  font-size: 2.75em;
+  font-size: 32px;
 }
 
 h3 {
-  font-size: 2em;
+  font-family: MagicalMysteryTour;
+  font-size: 24px;
 }
 
 h5 {
-  font-family: 'Indie Flower', cursive;
-  font-size: 1.5em;
+  font-size: 22px;
+  line-height: 36px;
+}
+
+h5.separator {
+  font-family: 'Indie Flower';
+}
+
+p {
+  margin: 20px 0;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.heart-framed-couple {
+  text-align: center;
+}
+
+.heart-framed-couple img {
+  width: 60%;
 }
 
 p.footer {
+  font-size: 16px;
   text-align: center;
 }
 
@@ -34,20 +57,27 @@ a {
   color: blue;
 }
 
-.content {
-  font-size: 1.25em;
-  text-align: justify;
-  font-family: sans-serif;
+.paginate a {
+  font-size: 20px;
 }
 
-.pagination {
-  text-align: center;
-  font-size: 1.5em;
-  padding-top: 10px;
+.prev {
+  text-align: left;
+}
+
+.next {
+  text-align: right;
+}
+
+.content {
+  margin: 0 auto;
+  width: 100%;
+  text-align: justify;
+  font-family: 'Crimson Text', serif;
 }
 
 @media (min-width: 768px) {
   .content {
-    padding: 0 25%;
+    width: 460px;
   }
 }
