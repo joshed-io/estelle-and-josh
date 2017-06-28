@@ -1,0 +1,23 @@
+{{ partial "header" . }}
+
+<h1>{{ .Title }}</h1>
+
+<div class="content">
+  <div class="carousel-holder">
+    <div class="carousel">
+    {{ range $i, $sequence :=  (seq 49) }}
+      <img src="/images/photos/{{ add $i 1 }}.jpg" />
+    {{ end }}
+    </div>
+  </div>
+</div>
+
+<h5>&middot; &middot; &middot;</h5>
+
+<h5><a href="/">home</a></h5>
+
+<h5 class="separator">— — —</h5>
+
+<p class="footer">Estelle &amp; Josh, 2017</p>
+
+{{ partial "footer" . }}

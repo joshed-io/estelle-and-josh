@@ -81,3 +81,11 @@ a {
     width: 460px;
   }
 }
+
+.slick-prev:before, .slick-next:before {
+  color: blue;
+}
+
+.carousel img {
+  border-radius: 10px;
+}
