@@ -5,4 +5,10 @@ var $ = window.jQuery;
 $(document).ready(function() {
   $(".carousel").slick({
   });
+
+  $(".get-married").animate({
+    marginLeft: "0px"
+  }, {
+    duration: 1000
+  });
 });
