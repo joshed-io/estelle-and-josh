@@ -53,6 +53,7 @@ p {
 
 .i-left, .i-right {
   width: 100px;
+  display: none;
 }
 
 p.footer {
@@ -73,21 +74,17 @@ a {
   font-size: 20px;
 }
 
-.prev {
-  text-align: left;
-}
-
-.next {
-  text-align: right;
-}
-
 .content {
+  position: relative;
   margin: 0 auto;
   text-align: center;
   font-family: 'Crimson Text', serif;
 }
 
 @media (min-width: 768px) {
+  .i-left, .i-right {
+    display: inline;
+  }
   .content {
     width: 440px;
   }
@@ -101,12 +98,21 @@ a {
   border-radius: 10px;
 }
 
-.nav {
-  display: inline;
+.paginate {
+  position: absolute;
+  top: 35%;
 }
 
-.nav-hidden {
-  visibility: hidden;
+.paginate.left {
+  left: 0;
+}
+
+.paginate.right {
+  right: 0;
+}
+
+.nav {
+  display: inline;
 }
 
 .content img {
@@ -116,7 +122,6 @@ a {
 a.nav img {
   width: 40px;
   display: inline-block;
-  margin-bottom: 35%;
   border-radius: 0;
 }
 

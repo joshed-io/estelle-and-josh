@@ -3,13 +3,28 @@
 <h5>{{ .Title }}</h5>
 
 <div class="content">
+  {{ if .PrevInSection }}
+    <div class="prev paginate left">
+      <a class="nav nav-left" href="{{ .PrevInSection.Permalink }}">
+        <img src="/images/assets/heart-left.png">
+      </a>
+    </div>
+  {{ end }}
   {{ .Page.Content }}
+  {{ if and .PrevInSection .NextInSection }} | {{ end }}
+  {{ if .NextInSection }}
+    <div class="next paginate right">
+      <a class="nav nav-right" href="{{ .NextInSection.Permalink }}">
+        <img src="/images/assets/heart-right.png">
+      </a>
+    </div>
+  {{ end }}
 </div>
 
 <h5>&middot; &middot; &middot;</h5>
 
 <h5>
-  <a href="/story/">table of contents</a>
+  <a href="/story/">all</a>
   <br>
   <a href="/">home</a>
 </h5>
