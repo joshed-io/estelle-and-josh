@@ -9,6 +9,9 @@ $(document).ready(function() {
   $(".get-married").animate({
     marginLeft: "0px"
   }, {
-    duration: 1000
+    duration: 1500,
+    done: function() {
+      window.confettify();
+    }
   });
 });

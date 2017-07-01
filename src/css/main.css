@@ -44,8 +44,15 @@ p {
   text-align: center;
 }
 
-.heart-framed-couple img {
-  width: 60%;
+.heart-framed-couple {
+}
+
+.heart-framed-couple .i-center {
+  width: 45%;
+}
+
+.i-left, .i-right {
+  width: 100px;
 }
 
 p.footer {
@@ -59,6 +66,7 @@ a {
 
 .get-married {
   margin-left: -1500px;
+  margin-top: 10px;
 }
 
 .paginate a {
@@ -92,4 +100,14 @@ a {
 
 .carousel img {
   border-radius: 10px;
+}
+
+#confetti {
+	height: 100%;
+	left: 0px;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	z-index: -1;
+  opacity: 0.50;
 }
