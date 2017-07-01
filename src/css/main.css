@@ -40,11 +40,13 @@ p {
   line-height: 20px;
 }
 
-.heart-framed-couple {
-  text-align: center;
+.like-each-other {
+  margin-bottom: 10px;
 }
 
 .heart-framed-couple {
+  text-align: center;
+  margin: 0;
 }
 
 .heart-framed-couple .i-center {
@@ -66,8 +68,15 @@ a {
 }
 
 .get-married {
+  text-align: center;
   margin-left: -1500px;
-  margin-top: 10px;
+  margin-top: -25px;
+}
+
+.get-married h1 {
+  display: inline;
+  position: relative;
+  top: -30px;
 }
 
 .paginate a {

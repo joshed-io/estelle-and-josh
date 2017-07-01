@@ -11,7 +11,9 @@ $(document).ready(function() {
   }, {
     duration: 1500,
     done: function() {
-      window.confettify();
+      setTimeout(() => {
+        window.confettify();
+      }, 500);
     }
   });
 });
