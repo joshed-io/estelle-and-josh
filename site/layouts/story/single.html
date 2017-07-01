@@ -4,15 +4,6 @@
 
 <div class="content">
   {{ .Page.Content }}
-
-  {{ if .PrevInSection }}
-    <div class="prev paginate"><a href="{{ .PrevInSection.Permalink }}">&laquo; previous</a></div>
-  {{ end }}
-  {{ if and .PrevInSection .NextInSection }} | {{ end }}
-  {{ if .NextInSection }}
-    <div class="next paginate"><a href="{{ .NextInSection.Permalink }}">&raquo; next</a></div>
-  {{ end }}
-
 </div>
 
 <h5>&middot; &middot; &middot;</h5>

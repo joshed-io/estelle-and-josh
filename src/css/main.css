@@ -83,14 +83,13 @@ a {
 
 .content {
   margin: 0 auto;
-  width: 100%;
-  text-align: justify;
+  text-align: center;
   font-family: 'Crimson Text', serif;
 }
 
 @media (min-width: 768px) {
   .content {
-    width: 460px;
+    width: 440px;
   }
 }
 
@@ -100,6 +99,25 @@ a {
 
 .carousel img {
   border-radius: 10px;
+}
+
+.nav {
+  display: inline;
+}
+
+.nav-hidden {
+  visibility: hidden;
+}
+
+.content img {
+  border-radius: 25px;
+}
+
+a.nav img {
+  width: 40px;
+  display: inline-block;
+  margin-bottom: 35%;
+  border-radius: 0;
 }
 
 #confetti {
