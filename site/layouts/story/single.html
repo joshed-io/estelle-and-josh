@@ -9,7 +9,6 @@
     </div>
   {{ end }}
   {{ .Page.Content }}
-  {{ if and .PrevInSection .NextInSection }} | {{ end }}
   {{ if .NextInSection }}
     <div class="next paginate right">
       <a class="nav nav-right" href="{{ .NextInSection.Permalink }}">
@@ -22,8 +21,6 @@
 <h5>&middot; &middot; &middot;</h5>
 
 <h5>
-  <a href="/story/">all</a>
-  <br>
   <a href="/">home</a>
 </h5>
 

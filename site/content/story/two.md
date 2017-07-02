@@ -5,6 +5,8 @@ date = "2017-06-02"
 tags = []
 +++
 
-![two](/images/photos/2.png)
+![img](/images/photos/2.png)
 
-At night, Estelle would go for a jog through the forest so she could listen to her podcasts. These podcasts had clever names and hosts with British accents. I found this peculiar, concerning, and brave.
+Khon Kaen is the nearest major city to the Mindfulness Project. Once a week, all of the volunteers would visit the city and spend the day meditating at a monastery.
+
+In the evening there was some free time, and Estelle and I would go for a jog around the lake together, stopping for the occasional photo-op with the dinosaur statues lining the path.

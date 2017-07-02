@@ -5,6 +5,10 @@ date = "2017-06-01"
 tags = []
 +++
 
-![one](/images/photos/1.jpg)
+![img](/images/photos/1.jpg)
 
-I didn't meet Estelle at a bar, a restaurant, at work or through a friend. I didn't meet Estelle on the Internet. I met Estelle in a mud pit 8,000 miles from home.
+Estelle and I met at the Mindfulness Project in Thailand in July of 2015. Volunteers from all over the world come to the project to learn about yoga, meditation, Buddhism and permaculture.
+
+This is our first known picture together, in a group of 5 volunteers stomping around in a mud pit to create adobe bricks.
+
+*(click the heart to the right of the photo to continue)*

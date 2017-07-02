@@ -79,14 +79,12 @@ a {
 
 .get-married {
   text-align: center;
-  margin-top: -25px;
 }
 
 .get-married h1 {
   display: inline;
   position: relative;
   margin-left: -2500px;
-  top: -30px;
 }
 
 .paginate a {
@@ -106,6 +104,12 @@ a {
   }
   .content {
     width: 440px;
+  }
+  .get-married {
+    margin-top: -25px;
+  }
+  .get-married h1 {
+    top: -30px;
   }
 }
 
@@ -136,6 +140,7 @@ a {
 
 .content img {
   border-radius: 25px;
+  width: 350px;
 }
 
 a.nav img {
