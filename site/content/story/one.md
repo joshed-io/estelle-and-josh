@@ -11,4 +11,4 @@ Estelle and I met at the Mindfulness Project in Thailand in July of 2015. Volunt
 
 This is our first known picture together, in a group of 5 volunteers stomping around in a mud pit to create adobe bricks.
 
-*(click the heart to the right of the photo to continue)*
+*(click the pink heart next to the photo to continue)*
