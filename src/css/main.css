@@ -99,6 +99,7 @@ a {
 .story-content p {
   font-size: 18px;
   font-weight: bold;
+  padding: 0 50px;
 }
 
 .story-content img {
@@ -128,7 +129,7 @@ a {
     display: inline;
   }
   .content {
-    width: 440px;
+    width: 560px;
   }
   .get-married {
     margin-top: -25px;
@@ -165,7 +166,7 @@ a {
 
 .content img {
   border-radius: 25px;
-  width: 350px;
+  width: 400px;
 }
 
 a.nav img {

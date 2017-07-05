@@ -7,6 +7,4 @@ tags = []
 
 ![img](/images/photos/boulangerie-de-black-rock.png)
 
-I returned to San Francisco and several days later went to Burning Man in the vast, isolated Nevada desert. On the second-to-last day I was there, I found a camp that had a cellular internet connection, and I went online and booked a one-way ticket to Paris.
-
-It was after riding by this faux-boulangerie that I knew I had to do it. After booking the trip, I sent a text message to Estelle and she replied... positively.
+I returned to San Francisco and several days later went to Burning Man in the vast, isolated Nevada desert. On the second-to-last day I was there, I found a camp that had a cellular internet connection, and I went online and booked a one-way airplane ticket to Paris.
