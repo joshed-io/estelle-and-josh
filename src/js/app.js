@@ -4,6 +4,7 @@ var $ = window.jQuery;
 
 $(document).ready(function() {
   $(".carousel").slick({
+    infinite: false
   });
 
   $(".get-married h1").animate({
