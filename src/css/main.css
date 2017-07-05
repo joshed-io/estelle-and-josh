@@ -94,8 +94,33 @@ a {
 .content {
   position: relative;
   margin: 0 auto;
-  text-align: center;
-  font-family: 'Crimson Text', serif;
+}
+
+.story-content p {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.story-content img {
+  display: block;
+  margin: 0 auto;
+}
+
+.story-content em {
+  display: block;
+  text-align: right;
+  font-size: 14px;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-family: sans-serif;
+}
+
+.story-content pink {
+  color: purple;
+}
+
+.story-content p:nth-of-type(2) {
+  margin-top: 30px;
 }
 
 @media (min-width: 768px) {
