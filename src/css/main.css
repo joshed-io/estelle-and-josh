@@ -40,6 +40,10 @@ p {
   line-height: 20px;
 }
 
+.heart-framed-couple .i-center {
+  width: 100%;
+}
+
 .like-each-other {
   margin-bottom: 10px;
 }
@@ -47,10 +51,6 @@ p {
 .heart-framed-couple {
   text-align: center;
   margin: 0;
-}
-
-.heart-framed-couple .i-center {
-  width: 45%;
 }
 
 .i-left, .i-right {
@@ -129,6 +129,9 @@ a {
 }
 
 @media (min-width: 768px) {
+  .heart-framed-couple .i-center {
+    width: 45%;
+  }
   .i-left, .i-right {
     display: inline;
   }
