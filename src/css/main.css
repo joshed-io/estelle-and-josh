@@ -145,6 +145,7 @@ a {
 
 .slick-prev:before, .slick-next:before {
   color: blue;
+  font-size: 24px;
 }
 
 .carousel {
