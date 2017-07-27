@@ -1,0 +1,62 @@
+#confetti {
+	height: 100%;
+	left: 0px;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	z-index: -1;
+  opacity: 0.50;
+}
+
+.heart-framed-couple .i-center {
+  width: 100%;
+}
+
+.heart-framed-couple {
+  text-align: center;
+}
+
+.i-left, .i-right {
+  width: 100px;
+  position: relative;
+  visibility: hidden;
+  display: none;
+}
+
+.i-left {
+  left: -500px;
+}
+
+.i-right {
+  left: 500px;
+}
+
+.get-married {
+	text-align: center;
+}
+
+.get-married h1 {
+  display: inline;
+  position: relative;
+  margin-left: -2500px;
+}
+
+.read-our-story a {
+	text-decoration: underline;
+	font-size: 22px;
+}
+
+@media (min-width: 768px) {
+  .heart-framed-couple .i-center {
+    width: 45%;
+  }
+  .i-left, .i-right {
+    display: inline;
+  }
+  .get-married {
+    margin-top: -25px;
+  }
+  .get-married h1 {
+    top: 15px;
+  }
+}

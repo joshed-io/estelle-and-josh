@@ -1,33 +1,21 @@
-@import "imports/reset.css";
-@import "imports/fonts.css";
+@import "./imports/fonts.css";
+@import "./home.css";
+@import "./carousel.css";
 
 body {
-  padding: 8px;
   font-family: 'Josefin Sans', sans-serif;
 }
 
 h1, h2, h3, h4, h5 {
   text-align: center;
-  margin: 1em 0;
 }
 
 h1 {
   font-family: MagicalMysteryTour;
-  font-size: 32px;
-}
-
-h2 {
-  font-size: 32px;
 }
 
 h3 {
   font-family: MagicalMysteryTour;
-  font-size: 24px;
-}
-
-h5 {
-  font-size: 22px;
-  line-height: 36px;
 }
 
 h5.separator {
@@ -40,169 +28,15 @@ p {
   line-height: 20px;
 }
 
-.heart-framed-couple .i-center {
-  width: 100%;
-}
-
-.like-each-other {
-  margin-bottom: 10px;
-}
-
-.heart-framed-couple {
-  text-align: center;
-  margin: 0;
-}
-
-.i-left, .i-right {
-  width: 100px;
-  position: relative;
-  visibility: hidden;
-  display: none;
-}
-
-.i-left {
-  left: -500px;
-}
-
-.i-right {
-  left: 500px;
-}
-
 p.footer {
   font-size: 16px;
   text-align: center;
 }
 
-a {
+a, a:active, a:visited, a:hover {
   color: blue;
-}
-
-.get-married {
-  text-align: center;
-}
-
-.get-married h1 {
-  display: inline;
-  position: relative;
-  margin-left: -2500px;
 }
 
 .paginate a {
   font-size: 20px;
-}
-
-.content {
-  position: relative;
-  margin: 0 auto;
-}
-
-.story-content p {
-  font-size: 18px;
-  font-weight: bold;
-  padding: 0 50px;
-}
-
-.story-content img {
-  display: block;
-  margin: 0 auto;
-}
-
-.story-content em {
-  display: block;
-  text-align: right;
-  font-size: 14px;
-  font-weight: bold;
-  font-variant: small-caps;
-  font-family: sans-serif;
-}
-
-.story-content pink {
-  color: purple;
-}
-
-.story-content p:nth-of-type(2) {
-  margin-top: 30px;
-}
-
-.story-list {
-  margin-top: 25px;
-}
-
-@media (min-width: 768px) {
-  .heart-framed-couple .i-center {
-    width: 45%;
-  }
-  .i-left, .i-right {
-    display: inline;
-  }
-  .content {
-    width: 560px;
-  }
-  .get-married {
-    margin-top: -25px;
-  }
-  .get-married h1 {
-    top: -30px;
-  }
-}
-
-.slick-prev:before, .slick-next:before {
-  color: blue;
-  font-size: 24px;
-}
-
-.carousel {
-  width: 450px;
-  margin: 0 auto;
-  text-align: center;
-}
-
-.carousel p {
-  width: 375px;
-  margin: 20px auto 0;
-}
-
-.carousel img {
-  border-radius: 10px;
-  width: 375px;
-  display: block;
-  margin: 0 auto;
-}
-
-.paginate {
-  position: absolute;
-  top: 35%;
-}
-
-.paginate.left {
-  left: 0;
-}
-
-.paginate.right {
-  right: 0;
-}
-
-.nav {
-  display: inline;
-}
-
-.content img {
-  border-radius: 25px;
-  width: 400px;
-}
-
-a.nav img {
-  width: 40px;
-  display: inline-block;
-  border-radius: 0;
-}
-
-#confetti {
-	height: 100%;
-	left: 0px;
-	position: fixed;
-	top: 0px;
-	width: 100%;
-	z-index: -1;
-  opacity: 0.50;
 }
