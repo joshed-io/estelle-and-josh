@@ -1,33 +1,50 @@
 {{ partial "header" . }}
 
-<div class="content">
-  {{ if .PrevInSection }}
-    <div class="prev paginate left">
-      <a class="nav nav-left" href="{{ .PrevInSection.Permalink }}">
-        <img src="/images/assets/heart-left.png">
-      </a>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-6 col-sm-6">
+      <h2>{{ .Page.Title }}</h2>
+      <div class="content">
+        {{ .Page.Content }}
+      </div>
+      <div class="paginate">
+        {{ if .PrevInSection }}
+          <a class="left" href="{{ .PrevInSection.Permalink }}">
+            &laquo; previous page
+          </a>
+        {{ end }}
+        {{ if .NextInSection }}
+          <a class="right" href="{{ .NextInSection.Permalink }}">
+            next page &raquo;
+          </a>
+        {{ end }}
+        <a class="center" href="/">home</a>
+      </div>
     </div>
-  {{ end }}
-  <div class="story-content">
-    {{ .Page.Content }}
+    <div class="col-md-6 col-sm-6">
+      <div class="carousel-holder">
+        <div class="carousel">
+          {{ range .Params.images }}
+            <div class="item">
+              <img src="{{ . }}">
+            </div>
+          {{ end }}
+        </div>
+        <div class="carousel-arrows">
+        </div>
+      </div>
+    </div>
   </div>
-  {{ if .NextInSection }}
-    <div class="next paginate right">
-      <a class="nav nav-right" href="{{ .NextInSection.Permalink }}">
-        <img src="/images/assets/heart-right.png">
-      </a>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="footer">
+        <p>&nbsp;</p>
+        <h5 class="separator">— — —</h5>
+        <p class="footer">Estelle &amp; Josh, 2017</p>
+      </div>
     </div>
-  {{ end }}
+  </div>
 </div>
 
-<h5>&middot; &middot; &middot;</h5>
-
-<h5>
-  <a href="/">home</a>
-</h5>
-
-<h5 class="separator">— — —</h5>
-
-<p class="footer">Estelle &amp; Josh, 2017</p>
 
 {{ partial "footer" . }}

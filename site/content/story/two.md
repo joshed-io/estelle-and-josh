@@ -1,11 +1,13 @@
 +++
-title = "Two"
+title = "Koh Tao"
 description = ""
 date = "2017-06-02"
 tags = []
+images = [
+  "/images/photos/2.png",
+  "/images/photos/4.jpg"
+]
 +++
-
-![img](/images/photos/2.png)
 
 Khon Kaen is the nearest major city to the Mindfulness Project. Once a week, all of the volunteers would visit the city and spend the day meditating at a monastery.
 

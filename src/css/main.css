@@ -1,42 +1,26 @@
 @import "./imports/fonts.css";
 @import "./home.css";
+@import "./story.css";
 @import "./carousel.css";
 
 body {
   font-family: 'Josefin Sans', sans-serif;
 }
 
-h1, h2, h3, h4, h5 {
-  text-align: center;
-}
-
-h1 {
+h1, h3 {
   font-family: MagicalMysteryTour;
 }
 
-h3 {
-  font-family: MagicalMysteryTour;
-}
-
-h5.separator {
+.separator {
   font-family: 'Indie Flower';
 }
 
-p {
-  margin: 20px 0;
-  font-size: 18px;
-  line-height: 20px;
-}
-
-p.footer {
-  font-size: 16px;
+.footer {
+  margin-top: 10px;
+  font-size: 14px;
   text-align: center;
 }
 
 a, a:active, a:visited, a:hover {
   color: blue;
-}
-
-.paginate a {
-  font-size: 20px;
 }

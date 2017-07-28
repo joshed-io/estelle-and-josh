@@ -4,7 +4,11 @@ var $ = window.jQuery;
 
 $(document).ready(function() {
   $(".carousel").slick({
-    infinite: false
+    infinite: false,
+    centerMode: true,
+    slidesToShow: 1,
+    autoplay: true,
+    autoplaySpeed: 3000
   });
 
   $(".get-married h1").animate({

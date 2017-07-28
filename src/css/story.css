@@ -1,0 +1,31 @@
+.paginate {
+  border-top: 1px solid #eee;
+  margin-top: 20px;
+  padding: 5px;
+}
+
+.paginate a {
+  font-size: 16px;
+}
+
+.paginate .right {
+  float: right;
+}
+
+.paginate .left {
+  float: left;
+}
+
+.paginate .center {
+  margin: 0 auto;
+  display: block;
+  width: 45px;
+}
+
+.content {
+  height: 280px;
+}
+
+.content p {
+  font-size: 16px;
+}
