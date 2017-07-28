@@ -2,26 +2,13 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-md-6 col-sm-6">
+    <div class="col-md-5 col-sm-5">
       <h2>{{ .Page.Title }}</h2>
       <div class="content">
         {{ .Page.Content }}
       </div>
-      <div class="paginate">
-        {{ if .PrevInSection }}
-          <a class="left" href="{{ .PrevInSection.Permalink }}">
-            &laquo; previous page
-          </a>
-        {{ end }}
-        {{ if .NextInSection }}
-          <a class="right" href="{{ .NextInSection.Permalink }}">
-            next page &raquo;
-          </a>
-        {{ end }}
-        <a class="center" href="/">home</a>
-      </div>
     </div>
-    <div class="col-md-6 col-sm-6">
+    <div class="col-md-7 col-sm-7">
       <div class="carousel-holder">
         <div class="carousel">
           {{ range .Params.images }}
@@ -37,7 +24,25 @@
   </div>
   <div class="row">
     <div class="col-md-12">
+      <div class="paginate">
+        {{ if .PrevInSection }}
+          <a class="left" href="{{ .PrevInSection.Permalink }}">
+            &laquo; previous page
+          </a>
+        {{ end }}
+        {{ if .NextInSection }}
+          <a class="right" href="{{ .NextInSection.Permalink }}">
+            next page &raquo;
+          </a>
+        {{ end }}
+        <a class="center" href="/">home</a>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
       <div class="footer">
+        <p>&nbsp;</p>
         <p>&nbsp;</p>
         <h5 class="separator">— — —</h5>
         <p class="footer">Estelle &amp; Josh, 2017</p>

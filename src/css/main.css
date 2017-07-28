@@ -24,3 +24,7 @@ h1, h3 {
 a, a:active, a:visited, a:hover {
   color: blue;
 }
+
+* {
+  outline: 0;
+}

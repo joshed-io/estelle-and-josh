@@ -1,11 +1,11 @@
 .paginate {
-  border-top: 1px solid #eee;
-  margin-top: 20px;
-  padding: 5px;
+  border-top: 1px solid #ccc;
+  margin-top: 15px;
+  padding: 10px 0;
 }
 
 .paginate a {
-  font-size: 16px;
+  font-size: 22px;
 }
 
 .paginate .right {
@@ -23,7 +23,6 @@
 }
 
 .content {
-  height: 280px;
 }
 
 .content p {
