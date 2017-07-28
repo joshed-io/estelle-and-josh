@@ -9,8 +9,6 @@ $(document).ready(function() {
     slidesToShow: 1,
     prevArrow: "<button class='heart-arrow heart-left'><img src='/images/assets/heart-left.png'></button>",
     nextArrow: "<button class='heart-arrow heart-right'><img src='/images/assets/heart-right.png'></button>",
-    autoplay: true,
-    autoplaySpeed: 3000,
     appendArrows: $(".carousel-holder"),
   });
 
