@@ -8,9 +8,10 @@ $(document).ready(function() {
     speed: 500,
     slidesToShow: 1,
     prevArrow: "<button class='heart-arrow heart-left'><img src='/images/assets/heart-left.png'></button>",
-    nextArrow: "<button class='heart-arrow heart-right'><img src='/images/assets/heart-right.png'></button>", // autoplay: true,
+    nextArrow: "<button class='heart-arrow heart-right'><img src='/images/assets/heart-right.png'></button>",
+    autoplay: true,
+    autoplaySpeed: 3000,
     appendArrows: $(".carousel-holder"),
-    // autoplaySpeed: 3000,
   });
 
   $(".get-married h1").animate({
