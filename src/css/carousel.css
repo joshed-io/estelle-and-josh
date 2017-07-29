@@ -6,11 +6,6 @@
   margin: 20px 0px;
 }
 
-.carousel .item img {
-  display: none;
-  border-radius: 10px;
-}
-
 .carousel.slick-initialized .item img {
   display: block;
 }
@@ -32,14 +27,18 @@
   opacity: 0.3;
 }
 
+.carousel .item img {
+  display: none;
+  border-radius: 10px;
+  padding: 1%;
+  width: 99%;
+  margin: 0 auto;
+}
+
 @media (min-width: 481px) {
   .carousel {
     width: 75%;
     margin: 0 auto;
-  }
-  .carousel .item img {
-    padding: 1%;
-    width: 99%;
   }
   .heart-right {
     right: -50px;
@@ -51,12 +50,6 @@
 }
 
 @media (max-width: 480px) {
-  .carousel {
-  }
-  .carousel .item img {
-    width: 99%;
-    padding: 1%;
-  }
   .heart-left {
     left: 0;
   }
