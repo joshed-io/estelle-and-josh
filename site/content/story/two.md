@@ -4,7 +4,6 @@ description = ""
 date = "2017-06-02"
 tags = []
 images = [
-  "/images/photos/2.png",
   "/images/photos/4.jpg"
 ]
 +++

@@ -9,7 +9,9 @@ $(document).ready(function() {
     slidesToShow: 1,
     prevArrow: "<button class='heart-arrow heart-left'><img src='/images/assets/heart-left.png'></button>",
     nextArrow: "<button class='heart-arrow heart-right'><img src='/images/assets/heart-right.png'></button>",
-    appendArrows: $(".carousel-holder"),
+    dots: true,
+    adaptiveHeight: true
+    // appendArrows: $(".carousel-holder"),
   });
 
   $(".get-married h1").animate({
