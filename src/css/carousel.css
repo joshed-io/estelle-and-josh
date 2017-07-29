@@ -3,12 +3,12 @@
 }
 
 .carousel-holder {
-  margin: 25px 0px;
+  margin: 20px 0px;
 }
 
 .carousel .item img {
   display: none;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .carousel.slick-initialized .item img {
@@ -34,12 +34,12 @@
 
 @media (min-width: 481px) {
   .carousel {
-    width: 370px;
+    width: 75%;
     margin: 0 auto;
   }
   .carousel .item img {
-    margin: 10px;
-    width: 350px;
+    padding: 1%;
+    width: 99%;
   }
   .heart-right {
     right: -50px;
@@ -51,9 +51,11 @@
 }
 
 @media (max-width: 480px) {
+  .carousel {
+  }
   .carousel .item img {
-    padding: 5px;
-    width: 100%;
+    width: 99%;
+    padding: 1%;
   }
   .heart-left {
     left: 0;
