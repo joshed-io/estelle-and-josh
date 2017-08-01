@@ -1,5 +1,5 @@
 +++
-title = "Koh Tao"
+title = "Khon Kaen"
 description = ""
 date = "2017-06-02"
 tags = []

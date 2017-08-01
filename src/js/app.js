@@ -11,7 +11,6 @@ $(document).ready(function() {
     nextArrow: "<button class='heart-arrow heart-right'><img src='/images/assets/heart-right.png'></button>",
     dots: true,
     adaptiveHeight: true
-    // appendArrows: $(".carousel-holder"),
   });
 
   $(".get-married h1").animate({

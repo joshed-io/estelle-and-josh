@@ -6,6 +6,23 @@
       <h2>{{ .Page.Title }}</h2>
       <div class="content">
         {{ .Page.Content }}
+          {{ if .NextInSection }}
+            <p class="text-right">
+              <a href="{{ .NextInSection.Permalink }}">
+                next &raquo; {{ .NextInSection.Title }}
+              </a>
+            </p>
+          {{ end }}
+          <ul class="list-inline">
+            <hr>
+            {{ if .PrevInSection }}
+              <li>
+                <a href="{{ .PrevInSection.Permalink }}">&laquo; previous</a>
+              <li>
+            {{ end }}
+            <li><a class="center" href="/">home</a></li>
+            <li><a class="center" href="/story/">index</a></li>
+          </ul>
       </div>
     </div>
     <div class="col-md-7 col-sm-7">
@@ -17,25 +34,6 @@
             </div>
           {{ end }}
         </div>
-        <div class="carousel-arrows">
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-12">
-      <div class="paginate">
-        {{ if .PrevInSection }}
-          <a class="left" href="{{ .PrevInSection.Permalink }}">
-            &laquo; previous page
-          </a>
-        {{ end }}
-        {{ if .NextInSection }}
-          <a class="right" href="{{ .NextInSection.Permalink }}">
-            next page &raquo;
-          </a>
-        {{ end }}
-        <a class="center" href="/">home</a>
       </div>
     </div>
   </div>

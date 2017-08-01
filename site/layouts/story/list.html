@@ -1,48 +1,28 @@
 {{ partial "header" . }}
 
-<div class="story-list">
-
-  <div class="carousel">
-    <div>
-      <img src="/images/photos/1.jpg">
-      <p>
-        Estelle and I met at the Mindfulness Project in Thailand in July of 2015. Volunteers from all over the world come to the project to learn about yoga, meditation, Buddhism and permaculture.
-      </p>
-    </div>
-    <div>
-      <img src="/images/photos/dino.png">
-      <p>
-        Khon Kaen is the nearest major city to the Mindfulness Project. Once a week, all of the volunteers would visit the city and spend the day meditating at a monastery.
-      </p>
-    </div>
-    <div>
-      <img src="/images/photos/4.jpg">
-      <p>
-        We spent 6 days together on Koh Tao, and that's where we really got to know each other. During the day she'd ride behind me on our rented scooter to remote beaches on the island, and at night we'd watch dancers spin fire on the beach.
-      </p>
-    </div>
-    <div>
-      <img src="/images/photos/5.jpg">
-      <p>
-        This was Estelle's first time at a rooftop bar. It's in Bangkok, where we had one final night to spend together before heading back to our respective homes - Estelle to Paris and I to San Francisco.
-      </p>
-    </div>
-    <div>
-      <img src="/images/photos/asian-art-museum.png">
-      <p>
-        More photos coming soon!
-      </p>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <h2 class="text-center">Table of Contents</h2>
+      <p>&nbsp;</p>
+      <ol>
+        {{ range .Data.Pages.Reverse }}
+          <li><h4><a href="{{ .URL }}">{{ .Title }}</a></h4></li>
+        {{ end }}
+      </ol>
     </div>
   </div>
-
 </div>
 
-<h5>&middot; &middot; &middot;</h5>
-
-<h5><a href="/">home</a></h5>
-
-<h5 class="separator">— — —</h5>
-
-<p class="footer">Estelle &amp; Josh, 2017</p>
+<div class="row">
+  <div class="col-md-12">
+    <div class="footer">
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <h5 class="separator">— — —</h5>
+      <p class="footer">Estelle &amp; Josh, 2017</p>
+    </div>
+  </div>
+</div>
 
 {{ partial "footer" . }}
