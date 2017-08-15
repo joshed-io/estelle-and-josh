@@ -1,17 +1,21 @@
 {{ partial "header" . }}
 
-<h1>{{ .Title }}</h1>
-
-<div class="content">
-  {{ .Page.Content }}
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4 col-md-offset-4">
+      <div class="save-the-date-content">
+        {{ .Page.Content }}
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="footer">
+        <h3><a href="/">visit our site &raquo;</a></h3>
+      </div>
+    </div>
+  </div>
 </div>
 
-<h5>&middot; &middot; &middot;</h5>
-
-<h5><a href="/">home</a></h5>
-
-<h5 class="separator">— — —</h5>
-
-<p class="footer">Estelle &amp; Josh, 2017</p>
 
 {{ partial "footer" . }}

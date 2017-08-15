@@ -28,3 +28,12 @@ a, a:active, a:visited, a:hover {
 * {
   outline: 0;
 }
+
+.save-the-date-content {
+  margin-top: 40px;
+}
+
+.save-the-date-content img {
+  width: 100%;
+  box-shadow: 1px 1px 10px #ccc;
+}
