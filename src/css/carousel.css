@@ -27,12 +27,27 @@
   opacity: 0.3;
 }
 
+.carousel .item {
+  position: relative;
+}
+
 .carousel .item img {
   display: none;
-  border-radius: 10px;
-  padding: 1%;
+}
+
+.carousel .item img.frame {
+  position: relative;
+  z-index: 2;
   width: 99%;
-  margin: 0 auto;
+  padding: 1%;
+}
+
+.carousel .item img.photo {
+  z-index: 1;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 80%;
 }
 
 @media (min-width: 481px) {

@@ -1,15 +1,16 @@
 +++
-title = "Thailand"
+title = "1. It began in Thailand"
 description = ""
 date = "2017-06-01"
 tags = []
 images = [
-  "/images/photos/1.jpg",
-  "/images/photos/2.png",
-  "/images/photos/3.jpg"
+  "/images/ready/1.jpg",
+  "/images/ready/3.jpg"
 ]
 +++
 
-Estelle and Josh met at the Mindfulness Project in Thailand in July of 2015. Volunteers from all over the world come to the project to learn about yoga, meditation, Buddhism and permaculture.
+We met in Thailand in the summer of 2015 while volunteering at a place called the Mindfulness Project. People from all over the world come to the project to learn about yoga, meditation, Buddhism and permaculture.
 
-This is their first known picture together, in a group of 5 volunteers stomping around in a mud pit to create adobe bricks.
+One of our first encounters found us creating mud bricks together. Long stretches of manual labor, also known as *karma yoga*, afforded volunteers the opportunity to talk at length.
+
+It was through these conversations that we first got to know each other. We also joined each other for iced coffee breaks in the nearby village.

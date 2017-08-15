@@ -1,10 +1,10 @@
 +++
-title = "Khon Kaen"
+title = "2. Khon Kaen"
 description = ""
 date = "2017-06-02"
 tags = []
 images = [
-  "/images/photos/4.jpg"
+  "/images/ready/2.jpg"
 ]
 +++
 
