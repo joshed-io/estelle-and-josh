@@ -1,3 +1,7 @@
 .content p, .content li {
-  font-size: 16px;
+  font-size: 1.4em;
+}
+
+h1.enough {
+  font-size: 3em;
 }

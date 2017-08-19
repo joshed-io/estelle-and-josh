@@ -1,14 +1,23 @@
-@import "./imports/fonts.css";
+  @import "./imports/fonts.css";
 @import "./home.css";
 @import "./story.css";
 @import "./carousel.css";
 
 body {
   font-family: 'Josefin Sans', sans-serif;
+  margin: 20px 40px;
 }
 
 h1, h3 {
   font-family: MagicalMysteryTour;
+}
+
+h3 {
+  font-size: 3em;
+}
+
+h5 {
+  font-size: 2.5em;
 }
 
 .separator {
