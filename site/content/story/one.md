@@ -10,6 +10,8 @@ images = [
   "/images/ready/6.jpg",
   "/images/ready/7.jpg",
   "/images/ready/christian.jpg",
+  "/images/ready/bye.jpg",
+  "/images/ready/whole-project.jpg",
 ]
 +++
 

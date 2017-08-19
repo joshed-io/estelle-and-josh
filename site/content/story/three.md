@@ -1,11 +1,11 @@
 +++
-title = "3. Koh Tao"
+title = "3. Getting Tao-gether"
 description = ""
 date = "2017-06-03"
 tags = []
 images = [
   "/images/ready/koh-tao.jpg",
-  "/images/ready/meditation-dome.jpg",
+  "/images/ready/tao-gether.jpg",
   "/images/ready/table-koh-tao.jpg",
 ]
 +++
