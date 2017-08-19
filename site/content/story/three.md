@@ -3,6 +3,11 @@ title = "3. Koh Tao"
 description = ""
 date = "2017-06-03"
 tags = []
+images = [
+  "/images/ready/koh-tao.jpg",
+  "/images/ready/meditation-dome.jpg",
+  "/images/ready/table-koh-tao.jpg",
+]
 +++
 
 After the Mindfulness project, Estelle went to an island called Koh Tao. I joined her there several days later after recovering from a serious illness.

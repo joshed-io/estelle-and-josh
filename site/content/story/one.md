@@ -5,7 +5,11 @@ date = "2017-06-01"
 tags = []
 images = [
   "/images/ready/1.jpg",
-  "/images/ready/3.jpg"
+  "/images/ready/5.png",
+  "/images/ready/4.png",
+  "/images/ready/6.jpg",
+  "/images/ready/7.jpg",
+  "/images/ready/christian.jpg",
 ]
 +++
 
