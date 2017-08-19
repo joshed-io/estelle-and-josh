@@ -8,6 +8,6 @@ images = [
 ]
 +++
 
-Khon Kaen is the nearest major city to the Mindfulness Project. Once a week, all of the volunteers would visit the city and spend the day meditating at a monastery.
+**Estelle**: Once a week, on the eve of Buddha Day, all the volunteers would hitchhike to Khon Kaen to go to Wat Pho Ban Nontan, the main Monastery the project is affiliated with. We would meditate for about eleven hours on Buddha Day, which can be immensely rewarding but which frankly was no picnic. Josh would struggle with the sitting position while I would struggle with the idea of sitting… We would then go jogging around the city’s lake together before making our way to the glamorous Roma Hotel, where all the volunteers would stay for their night off. 
 
-In the evening there was some free time, and Estelle and I would go for a jog around the lake together, stopping for the occasional photo-op with the dinosaur statues lining the path.
+According to Josh, our first date was at a place called home, which is somewhat debatable as I had no idea it was a date. Moreover, the “date” was cut short by the arrival of about twenty other volunteers who came in to join us in a very merry mood. So we went back to our planting and composting activities for another week. The following week, we had a night of flâneuring around the city which I think would officially qualify as a date :)

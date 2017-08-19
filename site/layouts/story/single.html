@@ -7,23 +7,22 @@
       <br>
       <div class="content">
         {{ .Page.Content }}
+        <hr>
+        <ul class="list-inline">
+          {{ if .PrevInSection }}
+            <li>
+              <a href="{{ .PrevInSection.Permalink }}">&laquo; previous</a>
+            <li>
+          {{ end }}
+          <li><a class="center" href="/">home</a></li>
           {{ if .NextInSection }}
-            <p class="text-right">
+            <li class="pull-right">
               <a href="{{ .NextInSection.Permalink }}">
                 next &raquo; {{ .NextInSection.Title }}
               </a>
-            </p>
+            </li>
           {{ end }}
-          <ul class="list-inline">
-            <hr>
-            {{ if .PrevInSection }}
-              <li>
-                <a href="{{ .PrevInSection.Permalink }}">&laquo; previous</a>
-              <li>
-            {{ end }}
-            <li><a class="center" href="/">home</a></li>
-            <li><a class="center" href="/story/">contents</a></li>
-          </ul>
+        </ul>
       </div>
     </div>
     <div class="col-md-7 col-sm-7">

@@ -9,7 +9,7 @@ images = [
 ]
 +++
 
-We met in Thailand in the summer of 2015 while volunteering at a place called the Mindfulness Project. People from all over the world come to the project to learn about yoga, meditation, Buddhism and permaculture.
+**Josh**: We met in Thailand in the summer of 2015 while volunteering at a place called the Mindfulness Project. People from all over the world come to the project to learn about yoga, meditation, Buddhism and permaculture.
 
 One of our first encounters found us creating mud bricks together. Long stretches of manual labor, also known as *karma yoga*, afforded volunteers the opportunity to talk at length.
 
