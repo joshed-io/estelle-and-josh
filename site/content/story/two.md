@@ -1,5 +1,5 @@
 +++
-title = "2. Khon Kaen"
+title = "2. Yes Khon Kaen"
 description = ""
 date = "2017-06-02"
 tags = []
