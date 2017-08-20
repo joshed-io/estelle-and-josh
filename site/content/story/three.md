@@ -6,11 +6,12 @@ tags = []
 images = [
   "/images/ready/koh-tao-beach.jpg",
   "/images/ready/koh-tao-sunset.jpg",
+  "/images/ready/bungalow.jpg",
   "/images/ready/tao-gether.jpg",
   "/images/ready/koh-tao-friends.jpg",
   "/images/ready/natural-high.jpg",
-  "/images/ready/bungalow.jpg",
   "/images/ready/table-koh-tao.jpg",
+  "/images/ready/rooftop.jpg",
   "/images/ready/on-a-boat.jpg",
   "/images/ready/golden-grate.jpg",
 ]
