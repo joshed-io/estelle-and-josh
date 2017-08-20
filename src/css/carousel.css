@@ -66,9 +66,9 @@
 
 @media (max-width: 480px) {
   .heart-left {
-    left: 0;
+    left: -22px;
   }
   .heart-right {
-    right: 0;
+    right: -18px;
   }
 }
