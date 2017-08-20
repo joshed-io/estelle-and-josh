@@ -13,7 +13,7 @@ h1, h3 {
 
 @media (min-width: 678px) {
   body {
-    margin: 10px 40px 0;
+    margin: 20px 40px;
   }
   h1.enough {
     font-size: 3em;
