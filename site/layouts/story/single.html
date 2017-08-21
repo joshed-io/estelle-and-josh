@@ -15,9 +15,11 @@
             <li>
           {{ end }} <li><a class="center" href="/">home</a></li> {{ if .NextInSection }}
             <li class="pull-right">
-              <a href="{{ .NextInSection.Permalink }}">
-                next &raquo; {{ .NextInSection.Title }}
-              </a>
+              <strong>
+                <a href="{{ .NextInSection.Permalink }}">
+                  next &raquo; {{ .NextInSection.Title }}
+                </a>
+              </strong>
             </li>
           {{ end }}
         </ul>
