@@ -17,7 +17,7 @@
 }
 
 .i-left, .i-right {
-  width: 100px;
+	width: 75px;
   position: relative;
   visibility: hidden;
   display: none;
@@ -47,10 +47,11 @@
 
 @media (min-width: 768px) {
   .heart-framed-couple .i-center {
-    width: 85%;
+    width: 75%;
   }
   .i-left, .i-right {
     display: inline;
+	  width: 90px;
   }
   .get-married {
     margin-top: -25px;
