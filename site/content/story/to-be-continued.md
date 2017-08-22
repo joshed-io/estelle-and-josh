@@ -7,6 +7,8 @@ images = [
 ]
 +++
 
-**Us**: The story continues, it just hasn't made its way up on the site yet.
+**Us**: In 2018, we'll get married. That's exciting!
+
+We'll continue to update this website with more stories, information and pictures as the big day arrives.
 
 Check back often for new additions!
