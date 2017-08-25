@@ -1,6 +1,8 @@
-# Two people who like each other
+# Estelle and Josh
 
 This is a website that my fiancée Estelle and I made for our friends and family who will be coming to our wedding in July 2018. It is a collection of our favorite stories and photos.
+
+Visit the site - [https://estelle.and.dzello.com/](https://estelle.and.dzello.com/)
 
 ### Credits
 
