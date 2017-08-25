@@ -17,7 +17,7 @@ images = [
 ]
 +++
 
-**Josh**: After a few weeks at the Mindfulness Project, Estelle left and went to the island of Koh Tao. I had been really sick for a few days but Estelle has been taking care of me. I could really see how kind and generous she was, so of course I had to chase her to the island.
+**Josh**: After a few weeks at the Mindfulness Project, Estelle left and went to the island of Koh Tao. I had been really sick for a few days and Estelle had been taking care of me. I could really see how kind and generous she was, so of course I had to follow her to the island.
 
 We rented a beach-side bungalow, crossed death-defying ridges on a scooter, snorkled, and ate and drank great food with other Mindfulness Project who arrived not long after us. One of these volunteers was Skip, my friend from San Francisco, who originally had the idea for a summer trip to Thailand and was kind enough to invite me along. I never would have met Estelle weren't it for Skip's invitation and amazing travel planning skills. Thanks Skip!
 
