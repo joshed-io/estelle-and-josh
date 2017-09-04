@@ -1,0 +1,8 @@
++++
+title = "Save the Date - July 26, 2018"
+description = "This means that you don't book anything else at the same time."
+date = "2017-06-01"
+tags = []
++++
+
+![Save the date!](/images/assets/savethedate_26.png)
