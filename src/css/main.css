@@ -46,9 +46,11 @@ a, a:active, a:visited, a:hover {
 
 .save-the-date-content {
   margin-top: 40px;
+  text-align: center;
 }
 
 .save-the-date-content img {
   width: 100%;
+  max-width: 480px;
   box-shadow: 1px 1px 10px #ccc;
 }
