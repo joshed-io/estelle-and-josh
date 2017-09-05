@@ -43,6 +43,7 @@
 
 .read-our-story a {
 	text-decoration: underline;
+	font-size: 0.75em;
 }
 
 @media (min-width: 768px) {

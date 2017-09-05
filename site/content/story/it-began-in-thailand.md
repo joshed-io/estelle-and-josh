@@ -21,4 +21,6 @@ One of our first encounters found us creating mud bricks together. Long stretche
 
 We'll forever be grateful to the Mindfulness Project and its wonderful creator Christian, without whom we would never have met.
 
-**Tip: swipe or click the heart arrows to see more photos, then click 'next &raquo;' below to continue**
+<span class="tip">
+**Tip**: Swipe or click the heart arrows to see more photos, then click **'next &raquo; ...'** below to continue.
+</span>
