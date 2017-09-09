@@ -2,14 +2,14 @@
 title = "Yes Khon Kaen"
 weight = 990
 images = [
-  "/images/photos/khon-kaen.jpg",
-  "/images/photos/khon-kaen-lake.jpg",
-  "/images/photos/dinosaur-khon-kaen.jpg",
-  "/images/photos/home-resto.jpg",
-  "/images/photos/wat-pho.jpg",
-  "/images/photos/wat-pho-candles.jpg",
-  "/images/photos/meditation-dome.jpg",
-  "/images/photos/selfie-with-ferna.jpg",
+  "khon-kaen.jpg",
+  "khon-kaen-lake.jpg",
+  "dinosaur-khon-kaen.jpg",
+  "home-resto.jpg",
+  "wat-pho.jpg",
+  "wat-pho-candles.jpg",
+  "meditation-dome.jpg",
+  "selfie-with-ferna.jpg",
 ]
 +++
 

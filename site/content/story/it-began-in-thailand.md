@@ -2,14 +2,14 @@
 title = "It began in Thailand"
 weight = 1000
 images = [
-  "/images/photos/mindfulness-project-mudpit.jpg",
-  "/images/photos/mindfulness-house-porch.png",
-  "/images/photos/karma-yoga-board.png",
-  "/images/photos/mindfulness-project-house.jpg",
-  "/images/photos/mindfulness-project-mosaic.jpg",
-  "/images/photos/christian-carow-mindfulness-project.jpg",
-  "/images/photos/mindfulness-project-goodbye-circle.jpg",
-  "/images/photos/mindfulness-project-group.jpg",
+  "mindfulness-project-mudpit.jpg",
+  "mindfulness-house-porch.png",
+  "karma-yoga-board.png",
+  "mindfulness-project-house.jpg",
+  "mindfulness-project-mosaic.jpg",
+  "christian-carow-mindfulness-project.jpg",
+  "mindfulness-project-goodbye-circle.jpg",
+  "mindfulness-project-group.jpg",
 ]
 +++
 

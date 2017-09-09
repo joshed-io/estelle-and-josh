@@ -2,17 +2,17 @@
 title = "Marry me!"
 weight = 930
 images = [
-  "/images/photos/red-bed.jpg",
-  "/images/photos/villa-arch.jpg",
-  "/images/photos/jacks-peak.jpg",
-  "/images/photos/the-ring.jpg",
-  "/images/photos/with-the-ring.jpg",
-  "/images/photos/shoulders.jpg",
-  "/images/photos/sand-names.jpg",
-  "/images/photos/monterey-dinner.jpg",
-  "/images/photos/cannery-row.jpg",
-  "/images/photos/friends-happy.jpg",
-  "/images/photos/oakland.jpg",
+  "red-bed.jpg",
+  "villa-arch.jpg",
+  "jacks-peak.jpg",
+  "the-ring.jpg",
+  "with-the-ring.jpg",
+  "shoulders.jpg",
+  "sand-names.jpg",
+  "monterey-dinner.jpg",
+  "cannery-row.jpg",
+  "friends-happy.jpg",
+  "oakland.jpg",
 ]
 +++
 

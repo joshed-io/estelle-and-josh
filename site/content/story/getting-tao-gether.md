@@ -2,16 +2,16 @@
 title = "Getting Tao-gether"
 weight = 970
 images = [
-  "/images/photos/koh-tao-beach.jpg",
-  "/images/photos/koh-tao-sunset.jpg",
-  "/images/photos/bungalow.jpg",
-  "/images/photos/tao-gether.jpg",
-  "/images/photos/koh-tao-friends.jpg",
-  "/images/photos/natural-high.jpg",
-  "/images/photos/table-koh-tao.jpg",
-  "/images/photos/rooftop.jpg",
-  "/images/photos/on-a-boat.jpg",
-  "/images/photos/golden-grate.jpg",
+  "koh-tao-beach.jpg",
+  "koh-tao-sunset.jpg",
+  "bungalow.jpg",
+  "tao-gether.jpg",
+  "koh-tao-friends.jpg",
+  "natural-high.jpg",
+  "table-koh-tao.jpg",
+  "rooftop.jpg",
+  "on-a-boat.jpg",
+  "golden-grate.jpg",
 ]
 +++
 

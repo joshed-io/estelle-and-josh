@@ -2,17 +2,17 @@
 title = "Studio for two"
 weight = 950
 images = [
-  "/images/photos/paris-view.jpg",
-  "/images/photos/sacre-coeur.jpg",
-  "/images/photos/baguette.jpg",
-  "/images/photos/pop-tarts.jpg",
-  "/images/photos/josh-paris-scarf.jpg",
-  "/images/photos/bed-replacement.jpg",
-  "/images/photos/palais-tokyo.jpg",
-  "/images/photos/dance-tokyo.jpg",
-  "/images/photos/notre-dame.jpg",
-  "/images/photos/josh-chateau.jpg",
-  "/images/photos/chevreuse.jpg",
+  "paris-view.jpg",
+  "sacre-coeur.jpg",
+  "baguette.jpg",
+  "pop-tarts.jpg",
+  "josh-paris-scarf.jpg",
+  "bed-replacement.jpg",
+  "palais-tokyo.jpg",
+  "dance-tokyo.jpg",
+  "notre-dame.jpg",
+  "josh-chateau.jpg",
+  "chevreuse.jpg",
 ]
 +++
 

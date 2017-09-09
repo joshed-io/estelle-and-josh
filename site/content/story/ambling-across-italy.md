@@ -2,20 +2,20 @@
 title = "Ambling Across Italy"
 weight = 940
 images = [
-  "/images/photos/ischia-ferry-cool-hair.jpg",
-  "/images/photos/ischia-villa-estelle.jpg",
-  "/images/photos/ischia-landscape.jpg",
-  "/images/photos/ischia-beach-selfie.jpg",
-  "/images/photos/ischia-josh-rocks.jpg",
-  "/images/photos/ischia-estelle-portrait.jpg",
-  "/images/photos/giardini-la-mortella.jpg",
-  "/images/photos/ischia-estelle-sunlight.jpg",
-  "/images/photos/italy-jellyfish-sting.jpg",
-  "/images/photos/sorrento-from-the-water.jpg",
-  "/images/photos/sorrento-gelato.jpg",
-  "/images/photos/sorrento-swimming-hole.jpg",
-  "/images/photos/amalfi-prosecco-treats.jpg",
-  "/images/photos/amalfi-estelle.jpg",
+  "ischia-ferry-cool-hair.jpg",
+  "ischia-villa-estelle.jpg",
+  "ischia-landscape.jpg",
+  "ischia-beach-selfie.jpg",
+  "ischia-josh-rocks.jpg",
+  "ischia-estelle-portrait.jpg",
+  "giardini-la-mortella.jpg",
+  "ischia-estelle-sunlight.jpg",
+  "italy-jellyfish-sting.jpg",
+  "sorrento-from-the-water.jpg",
+  "sorrento-gelato.jpg",
+  "sorrento-swimming-hole.jpg",
+  "amalfi-prosecco-treats.jpg",
+  "amalfi-estelle.jpg",
 ]
 +++
 

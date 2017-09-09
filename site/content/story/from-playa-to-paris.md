@@ -2,13 +2,13 @@
 title = "From playa to Paris"
 weight = 960
 images = [
-  "/images/photos/temple.jpg",
-  "/images/photos/bm-ticket.jpg",
-  "/images/photos/temple-kindness.jpg",
-  "/images/photos/boulangerie.jpg",
-  "/images/photos/burning-man-2015-robot-heart.png",
-  "/images/photos/burning-man-2015-inner-child.jpg",
-  "/images/photos/burning-man-2015-dusty-hair.jpg"
+  "temple.jpg",
+  "bm-ticket.jpg",
+  "temple-kindness.jpg",
+  "boulangerie.jpg",
+  "burning-man-2015-robot-heart.png",
+  "burning-man-2015-inner-child.jpg",
+  "burning-man-2015-dusty-hair.jpg"
 ]
 +++
 

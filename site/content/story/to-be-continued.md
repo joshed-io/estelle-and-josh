@@ -2,7 +2,7 @@
 title = "To be continued..."
 weight = 1
 images = [
-  "/images/photos/venue.jpg"
+  "venue.jpg"
 ]
 +++
 
