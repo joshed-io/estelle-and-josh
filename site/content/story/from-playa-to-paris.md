@@ -7,6 +7,7 @@ images = [
   "/images/photos/bm-ticket.jpg",
   "/images/photos/temple-kindness.jpg",
   "/images/photos/boulangerie.jpg",
+  "/images/photos/burning-man-2015-dusty-hair.jpg"
 ]
 +++
 
