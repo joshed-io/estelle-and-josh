@@ -6,12 +6,12 @@ tags = []
 images = [
   "/images/ready/khon-kaen.jpg",
   "/images/ready/khon-kaen-lake.jpg",
-  "/images/ready/2.jpg",
+  "/images/ready/dinosaur-khon-kaen.jpg",
   "/images/ready/home-resto.jpg",
   "/images/ready/wat-pho.jpg",
   "/images/ready/wat-pho-candles.jpg",
   "/images/ready/meditation-dome.jpg",
-  "/images/ready/3.jpg",
+  "/images/ready/selfie-with-ferna.jpg",
 ]
 +++
 

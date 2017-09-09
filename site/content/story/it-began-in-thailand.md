@@ -4,14 +4,14 @@ description = ""
 date = "2017-06-01"
 tags = []
 images = [
-  "/images/ready/1.jpg",
-  "/images/ready/5.png",
-  "/images/ready/4.png",
-  "/images/ready/6.jpg",
-  "/images/ready/7.jpg",
-  "/images/ready/christian.jpg",
-  "/images/ready/bye.jpg",
-  "/images/ready/whole-project.jpg",
+  "/images/ready/mindfulness-project-mudpit.jpg",
+  "/images/ready/mindfulness-house-porch.png",
+  "/images/ready/karma-yoga-board.png",
+  "/images/ready/mindfulness-project-house.jpg",
+  "/images/ready/mindfulness-project-mosaic.jpg",
+  "/images/ready/christian-carow-mindfulness-project.jpg",
+  "/images/ready/mindfulness-project-goodbye-circle.jpg",
+  "/images/ready/mindfulness-project-group.jpg",
 ]
 +++
 
