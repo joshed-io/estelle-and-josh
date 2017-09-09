@@ -4,14 +4,14 @@ description = ""
 date = "2017-06-02"
 tags = []
 images = [
-  "/images/ready/khon-kaen.jpg",
-  "/images/ready/khon-kaen-lake.jpg",
-  "/images/ready/dinosaur-khon-kaen.jpg",
-  "/images/ready/home-resto.jpg",
-  "/images/ready/wat-pho.jpg",
-  "/images/ready/wat-pho-candles.jpg",
-  "/images/ready/meditation-dome.jpg",
-  "/images/ready/selfie-with-ferna.jpg",
+  "/images/photos/khon-kaen.jpg",
+  "/images/photos/khon-kaen-lake.jpg",
+  "/images/photos/dinosaur-khon-kaen.jpg",
+  "/images/photos/home-resto.jpg",
+  "/images/photos/wat-pho.jpg",
+  "/images/photos/wat-pho-candles.jpg",
+  "/images/photos/meditation-dome.jpg",
+  "/images/photos/selfie-with-ferna.jpg",
 ]
 +++
 

@@ -3,10 +3,10 @@ title = "4. From playa to Paris"
 description = ""
 date = "2017-06-04"
 images = [
-  "/images/ready/temple.jpg",
-  "/images/ready/bm-ticket.jpg",
-  "/images/ready/temple-kindness.jpg",
-  "/images/ready/boulangerie.jpg",
+  "/images/photos/temple.jpg",
+  "/images/photos/bm-ticket.jpg",
+  "/images/photos/temple-kindness.jpg",
+  "/images/photos/boulangerie.jpg",
 ]
 +++
 

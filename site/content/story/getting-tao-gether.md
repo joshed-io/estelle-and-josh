@@ -4,16 +4,16 @@ description = ""
 date = "2017-06-03"
 tags = []
 images = [
-  "/images/ready/koh-tao-beach.jpg",
-  "/images/ready/koh-tao-sunset.jpg",
-  "/images/ready/bungalow.jpg",
-  "/images/ready/tao-gether.jpg",
-  "/images/ready/koh-tao-friends.jpg",
-  "/images/ready/natural-high.jpg",
-  "/images/ready/table-koh-tao.jpg",
-  "/images/ready/rooftop.jpg",
-  "/images/ready/on-a-boat.jpg",
-  "/images/ready/golden-grate.jpg",
+  "/images/photos/koh-tao-beach.jpg",
+  "/images/photos/koh-tao-sunset.jpg",
+  "/images/photos/bungalow.jpg",
+  "/images/photos/tao-gether.jpg",
+  "/images/photos/koh-tao-friends.jpg",
+  "/images/photos/natural-high.jpg",
+  "/images/photos/table-koh-tao.jpg",
+  "/images/photos/rooftop.jpg",
+  "/images/photos/on-a-boat.jpg",
+  "/images/photos/golden-grate.jpg",
 ]
 +++
 

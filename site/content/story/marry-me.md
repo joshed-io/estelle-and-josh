@@ -3,17 +3,17 @@ title = "6. Marry me!"
 description = ""
 date = "2017-06-06"
 images = [
-  "/images/ready/red-bed.jpg",
-  "/images/ready/villa-arch.jpg",
-  "/images/ready/jacks-peak.jpg",
-  "/images/ready/the-ring.jpg",
-  "/images/ready/with-the-ring.jpg",
-  "/images/ready/shoulders.jpg",
-  "/images/ready/sand-names.jpg",
-  "/images/ready/monterey-dinner.jpg",
-  "/images/ready/cannery-row.jpg",
-  "/images/ready/friends-happy.jpg",
-  "/images/ready/oakland.jpg",
+  "/images/photos/red-bed.jpg",
+  "/images/photos/villa-arch.jpg",
+  "/images/photos/jacks-peak.jpg",
+  "/images/photos/the-ring.jpg",
+  "/images/photos/with-the-ring.jpg",
+  "/images/photos/shoulders.jpg",
+  "/images/photos/sand-names.jpg",
+  "/images/photos/monterey-dinner.jpg",
+  "/images/photos/cannery-row.jpg",
+  "/images/photos/friends-happy.jpg",
+  "/images/photos/oakland.jpg",
 ]
 +++
 

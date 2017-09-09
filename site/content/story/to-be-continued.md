@@ -3,7 +3,7 @@ title = "To be continued..."
 description = ""
 date = "2017-06-30"
 images = [
-  "/images/ready/venue.jpg"
+  "/images/photos/venue.jpg"
 ]
 +++
 
