@@ -1,3 +1,4 @@
+import fs from "fs";
 import gulp from "gulp";
 import cp from "child_process";
 import gutil from "gulp-util";
@@ -65,3 +66,13 @@ function buildSite(cb, options) {
     }
   });
 }
+
+gulp.task("convert", () => {
+  fs.readdir("./staging/", (err, filenames) => {
+    filenames.forEach((filename) => {
+      let command = `convert ./staging/${filename} -resize 600x600^ -gravity Center -crop 600x600+0+0 site/static/images/photos/${filename}`;
+      cp.exec(command);
+      console.log(`Processed ${filename}`);
+    });
+  });
+});
