@@ -1,7 +1,6 @@
 +++
-title = "5. Studio for two"
-description = ""
-date = "2017-06-05"
+title = "Studio for two"
+weight = 950
 images = [
   "/images/photos/paris-view.jpg",
   "/images/photos/baguette.jpg",

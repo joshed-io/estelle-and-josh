@@ -1,7 +1,6 @@
 +++
 title = "To be continued..."
-description = ""
-date = "2017-06-30"
+weight = 1
 images = [
   "/images/photos/venue.jpg"
 ]

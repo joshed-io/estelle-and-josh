@@ -1,7 +1,6 @@
 +++
-title = "4. From playa to Paris"
-description = ""
-date = "2017-06-04"
+title = "From playa to Paris"
+weight = 960
 images = [
   "/images/photos/temple.jpg",
   "/images/photos/bm-ticket.jpg",

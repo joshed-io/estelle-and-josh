@@ -7,9 +7,11 @@
       <p>&nbsp;</p>
       <ul class="list-unstyled">
         {{ range .Data.Pages.Reverse }}
-          <li><h4><a href="{{ .URL }}">{{ .Title }}</a></h4></li>
+          <li><h4>&middot; <a href="{{ .URL }}">{{ .Title }}</a></h4></li>
         {{ end }}
       </ul>
+      <p>&nbsp;</p>
+      <h4><a href="/">home</a></h4>
     </div>
   </div>
 </div>

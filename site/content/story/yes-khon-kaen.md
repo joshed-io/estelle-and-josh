@@ -1,8 +1,6 @@
 +++
-title = "2. Yes Khon Kaen"
-description = ""
-date = "2017-06-02"
-tags = []
+title = "Yes Khon Kaen"
+weight = 990
 images = [
   "/images/photos/khon-kaen.jpg",
   "/images/photos/khon-kaen-lake.jpg",

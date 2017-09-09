@@ -1,8 +1,6 @@
 +++
-title = "1. It began in Thailand"
-description = ""
-date = "2017-06-01"
-tags = []
+title = "It began in Thailand"
+weight = 1000
 images = [
   "/images/photos/mindfulness-project-mudpit.jpg",
   "/images/photos/mindfulness-house-porch.png",

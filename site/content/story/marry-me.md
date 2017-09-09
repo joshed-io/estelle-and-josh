@@ -1,7 +1,6 @@
 +++
-title = "6. Marry me!"
-description = ""
-date = "2017-06-06"
+title = "Marry me!"
+weight = 930
 images = [
   "/images/photos/red-bed.jpg",
   "/images/photos/villa-arch.jpg",

@@ -1,8 +1,6 @@
 +++
-title = "3. Getting Tao-gether"
-description = ""
-date = "2017-06-03"
-tags = []
+title = "Getting Tao-gether"
+weight = 970
 images = [
   "/images/photos/koh-tao-beach.jpg",
   "/images/photos/koh-tao-sunset.jpg",
