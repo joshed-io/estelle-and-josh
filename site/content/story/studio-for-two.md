@@ -5,12 +5,14 @@ date = "2017-06-05"
 images = [
   "/images/photos/paris-view.jpg",
   "/images/photos/baguette.jpg",
+  "/images/photos/josh-paris-scarf.jpg",
   "/images/photos/sacre-coeur.jpg",
   "/images/photos/pop-tarts.jpg",
   "/images/photos/bed-replacement.jpg",
   "/images/photos/palais-tokyo.jpg",
   "/images/photos/dance-tokyo.jpg",
   "/images/photos/notre-dame.jpg",
+  "/images/photos/josh-chateau.jpg",
   "/images/photos/chevreuse.jpg",
 ]
 +++
