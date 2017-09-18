@@ -1,5 +1,5 @@
 +++
-title = "Marry me!"
+title = "Marry me"
 weight = 930
 images = [
   "red-bed.jpg",
