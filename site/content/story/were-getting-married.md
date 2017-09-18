@@ -1,5 +1,5 @@
 +++
-title = "To be continued..."
+title = "We're getting married!"
 weight = 1
 images = [
   "venue.jpg"

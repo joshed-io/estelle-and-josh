@@ -33,7 +33,7 @@ h1, h3 {
 }
 
 a, a:active, a:visited, a:hover {
-  color: blue;
+  color: rgb(94, 57, 240);
 }
 
 * {
@@ -49,4 +49,10 @@ a, a:active, a:visited, a:hover {
   width: 100%;
   max-width: 480px;
   box-shadow: 1px 1px 10px #ccc;
+}
+
+.hashtag {
+  margin-top: -5px;
+  font-size: 12px;
+  color: rgb(94, 57, 240);
 }

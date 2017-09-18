@@ -3,28 +3,23 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6 col-md-offset-3">
-      <h1 class="text-center">Table of Contents</h1>
+      <h1 class="text-center">All Stories</h1>
       <p>&nbsp;</p>
-      <ul class="list-unstyled">
+      <ul class="list-unstyled story-font text-center">
         {{ range .Data.Pages.Reverse }}
-          <li><h4>&middot; <a href="{{ .URL }}">{{ .Title }}</a></h4></li>
+          <li><a href="{{ .URL }}">{{ .Title }}</a></li>
         {{ end }}
       </ul>
       <p>&nbsp;</p>
-      <h4><a href="/">home</a></h4>
+      <p class="text-center story-font">
+        <a href="javascript:history.back()">back</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="/">home</a>
+      </p>
     </div>
   </div>
+  {{ partial "closing" . }}
 </div>
 
-<div class="row">
-  <div class="col-md-12">
-    <div class="footer">
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <h5 class="separator">— — —</h5>
-      <p class="footer">Estelle &amp; Josh, 2017</p>
-    </div>
-  </div>
-</div>
 
 {{ partial "footer" . }}

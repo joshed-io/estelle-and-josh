@@ -12,7 +12,9 @@
             <li>
               <a href="{{ .PrevInSection.Permalink }}">&laquo; previous</a>
             <li>
-          {{ end }} <li><a class="center" href="/">home</a></li> {{ if .NextInSection }}
+          {{ end }}
+          <li><a class="center" href="/">home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="center" href="/story/">all</a></li>
+          {{ if .NextInSection }}
             <li class="pull-right">
               <strong>
                 <a href="{{ .NextInSection.Permalink }}">
@@ -39,16 +41,7 @@
       </div>
     </div>
   </div>
-  <div class="row">
-    <div class="col-md-12">
-      <div class="footer">
-        <p>&nbsp;</p>
-        <h5 class="separator">— — —</h5>
-        <p class="footer">Estelle &amp; Josh, 2017</p>
-      </div>
-    </div>
-  </div>
+  {{ partial "closing" . }}
 </div>
-
 
 {{ partial "footer" . }}
