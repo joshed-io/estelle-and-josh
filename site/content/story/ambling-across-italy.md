@@ -1,5 +1,5 @@
 +++
-title = "Ambling Across Italy"
+title = "Ambling across Italy"
 weight = 940
 images = [
   "ischia-ferry-cool-hair.jpg",
