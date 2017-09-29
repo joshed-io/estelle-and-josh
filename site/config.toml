@@ -1,3 +1,10 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Estelle & Josh — Two people who like each other"
+baseURL = "https://estelle.and.dzello.com/"
+
+[params]
+  description = "A compilation of our favorite stories and photos from when we met until now."
+  og_image = "https://estelle.and.dzello.com/images/assets/heart-frame.png"
+  og_image_width = 1600
+  og_image_height = 945
