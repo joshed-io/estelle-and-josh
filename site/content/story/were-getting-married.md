@@ -6,8 +6,8 @@ images = [
 ]
 +++
 
-**Us**: In 2018, we'll get married. That's exciting!
+**Us**: In 2018, we'll have a real wedding ceremony. That's exciting!
 
 We'll continue to update this website with more stories, information and pictures as the big day arrives. Check back often for new additions!
 
-If you use social media like Facebook or Instagram, keep an eye our for posts with our wedding hashtag: **#TheyLikeEachOther**.
+If you use social media, make some noise on our wedding hashtag: **#TheyLikeEachOther**.

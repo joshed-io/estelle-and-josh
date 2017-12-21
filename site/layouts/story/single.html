@@ -10,14 +10,14 @@
         <ul class="list-inline">
           {{ if .PrevInSection }}
             <li>
-              <a href="{{ .PrevInSection.Permalink }}">&laquo; previous</a>
+              <a href="{{ .PrevInSection.URL }}">&laquo; previous</a>
             <li>
           {{ end }}
           <li><a class="center" href="/">home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="center" href="/story/">all</a></li>
           {{ if .NextInSection }}
             <li class="pull-right">
               <strong>
-                <a href="{{ .NextInSection.Permalink }}">
+                <a href="{{ .NextInSection.URL }}">
                   next &raquo; {{ .NextInSection.Title }}
                 </a>
               </strong>
