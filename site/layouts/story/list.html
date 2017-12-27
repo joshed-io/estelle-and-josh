@@ -5,6 +5,9 @@
     <div class="col-md-6 col-md-offset-3">
       <h1 class="text-center">All Stories</h1>
       <p>&nbsp;</p>
+      <div class="searchbox-container text-center">
+        <input type="text" class="searchbox" id="docsearch-input" placeholder="🔎 search..." />
+      </div>
       <ul class="list-unstyled story-font text-center">
         {{ range .Data.Pages.Reverse }}
           <li><a href="{{ .URL }}">{{ .Title }}</a></li>
@@ -21,5 +24,6 @@
   {{ partial "closing" . }}
 </div>
 
+{{ partial "docsearch" . }}
 
 {{ partial "footer" . }}
