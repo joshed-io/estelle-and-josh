@@ -1,0 +1,20 @@
+{
+  "index_name": "dzello",
+  "start_urls": [
+    "https://estelle.and.dzello.com/"
+  ],
+  "stop_urls": [],
+  "selectors": {
+    "lvl0": "h1",
+    "lvl1": "h2",
+    "lvl2": "h3",
+    "lvl3": "h4",
+    "lvl4": "h5",
+    "text": "p, li"
+  },
+  "selectors_exclude": [
+    ".footer"
+  ],
+  "min_indexed_level": 0,
+  "nb_hits": 83
+}
