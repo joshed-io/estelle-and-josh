@@ -1,5 +1,5 @@
 +++
-title = "Lucky 7th arrondissement"
+title = "Mairie du 7e"
 weight = 920
 images = [
   "civil-ceremony-extended-chaos.jpg",
@@ -13,7 +13,7 @@ images = [
 ]
 +++
 
-**Josh**: On September 30, 2017, Estelle and I were married by the mayor of the 7th arrondissement of Paris. It was a civil ceremony with a few of our closest family and friends. My father Frank and sister KatySue had arrived from San Francisco days earlier.
+**Josh**: On September 30, 2017, Estelle and I were married by the mayor of the 7th arrondissement of Paris. It was a small, civil ceremony with a few of our closest family and friends. My father Frank and sister KatySue had arrived from San Francisco days earlier.
 
 After the ceremony we walked to Chez Françoise for lunch. Jean-Luc, the father of the bride, treated us to a delicious lunch of herring, pistachio mousse and champagne. Estelle's mother Maud graced us throughout with her kind energy and smile. For hours we ate, celebrated, and waited until the sun had parted the clouds before strolling a few blocks west to the Champ de Mars.
 
