@@ -12,3 +12,7 @@ Visit the site - [https://estelle.and.dzello.com/](https://estelle.and.dzello.co
 - Static site awesomeness with [hugo](https://gohugo.io)
 - Search by [Algolia](https://algolia.com/) using [DocSearch](https://community.algolia.com/docsearch)
 - Hosted on [Netlify](https://netlify.com/)
+
+### DocSearch config
+
+Look in `docsearch-config.json` to see how this site is indexed.
