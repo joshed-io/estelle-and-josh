@@ -5,6 +5,7 @@
     <meta name="description" content="{{ or .Summary .Site.Params.description  }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
     <link rel="stylesheet" href="/slick/slick.css" />
     <link rel="stylesheet" href="/slick/slick-theme.css" />
     <link rel="stylesheet" href="/css/main.css" />
@@ -18,6 +19,5 @@
       <meta property="og:image:width" content="{{ .Site.Params.og_image_width }}" />
       <meta property="og:image:height" content="{{ .Site.Params.og_image_height }}" />
     {{ end }}
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
   </head>
   <body>
