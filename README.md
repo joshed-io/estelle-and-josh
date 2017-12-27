@@ -10,4 +10,5 @@ Visit the site - [https://estelle.and.dzello.com/](https://estelle.and.dzello.co
 - Confetti by [Patrik Svensson](http://metervara.net)
 - Photo carousel with [slick](http://kenwheeler.github.io/slick/)
 - Static site awesomeness with [hugo](https://gohugo.io)
+- Search by [Algolia](https://algolia.com/) using [DocSearch](https://community.algolia.com/docsearch)
 - Hosted on [Netlify](https://netlify.com/)
