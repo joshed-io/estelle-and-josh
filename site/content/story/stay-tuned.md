@@ -6,6 +6,8 @@ images = [
 ]
 +++
 
-**Us**: We'll also be hosting a wedding ceremony and reception in 2018, and we'll continue to update this website with more stories and pictures. Check back often for new additions!
+**Us**: The fun isn't over yet!
 
-Here's our wedding hashtag in case you'd like to tweet or instagram something: **#TheyLikeEachOther**.
+We'll be hosting a marriage celebration and reception in 2018. Check back here often for new stories, photos and information.
+
+In case you'd like to tweet words of wisdom at us or post embarrassing photos on Instagram, our hashtag is **#TheyLikeEachOther**.

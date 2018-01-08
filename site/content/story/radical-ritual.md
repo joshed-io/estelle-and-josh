@@ -20,8 +20,8 @@ images = [
 ]
 +++
 
-**Josh:** Burning Man's 2017 art theme was *Radical Ritual*. It was my 6th turn at this ritual and one that will always be incredibly special — it was Estelle's first. We got tickets during the *OMG sale*, did *OMG preparation*, then had an *OMG experience*.
+**Josh:** We started planning our wedding(s) in May but made sure to have some more fun that year too. We went to Burning Man together—Estelle's first. We got last-minute tickets during the *OMG sale*, did *OMG preparation*, then had an *OMG experience*.
 
-For seven consecutive days Estelle and I performed a ritual that we called *The Whine House*. We opened a three-bottle pop-up wine bar with one twist - you had to **whine** before you got any **wine**. The things you could whine about changed every night and included topics like *worst animal bite*, *obnoxious in-law* or *a broken heart*. The more gut-wrenching the whine, the longer the pour. Plus we had cheese and crackers.
+Burning Man's 2017 art theme was *Radical Ritual*. For seven consecutive days Estelle and I performed a ritual that we called *The Whine House*. It was a pop-up wine bar with a twist - you had to **whine** before you got any **wine**. Like the wine, the whines changed every night—we heard stories about *animal bites*, *obnoxious in-laws* and *broken hearts*. The more gut-wrenching the whine, the longer the pour. We also had cheese and crackers.
 
-Our camp was Juicy Rootz. They were all lovely, especially James and Alli, who shined bright like diamonds.
+Our camp was Juicy Rootz. They were all lovely, especially James and Alli, who shone bright like diamonds.
