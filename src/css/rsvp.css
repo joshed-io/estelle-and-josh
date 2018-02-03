@@ -1,14 +1,14 @@
-h3 {
+.rsvp-container h3 {
   color: #82b1ed;
   font-size: 24px !important;
 }
 
-.pink {
+.rsvp-container .pink {
   color: #f3409e;
   margin-bottom: 0px;
 }
 
-.pink-stripe {
+.rsvp-container .pink-stripe {
   width: 385px;
 }
 
