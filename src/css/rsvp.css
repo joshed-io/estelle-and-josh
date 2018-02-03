@@ -65,8 +65,20 @@ h3 {
   left: 450px;
 }
 
+.rsvp-confirmation img {
+  display: block;
+  margin: 0 auto;
+}
+
+.rsvp-container .frame-image {
+  width: 250px;
+}
+
 @media (max-width: 990px) {
   .rsvp-container img.deco {
+    display: none;
+  }
+  .rsvp-container img.deco-conf {
     display: none;
   }
 }

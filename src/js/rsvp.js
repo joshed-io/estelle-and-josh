@@ -5,6 +5,7 @@ $("#rsvp-form").on("submit", function(event) {
   var foodAllergies = $("input[name='food_allergies']")[0].value;
   if (!(youName)) {
     alert('Please fill out your name in the form!');
+    return;
   }
 
   event.preventDefault();
@@ -17,7 +18,7 @@ $("#rsvp-form").on("submit", function(event) {
       food_allergies: foodAllergies
     },
     success: function() {
-      document.location.href = "/rsvp/confirmed";
+      document.location.href = "/rsvp-confirmed";
     }
   });
 });
