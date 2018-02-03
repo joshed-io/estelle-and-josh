@@ -1,3 +1,4 @@
+require("./rsvp.js")
 // JS Goes here - ES6 supported
 
 var $ = window.jQuery;

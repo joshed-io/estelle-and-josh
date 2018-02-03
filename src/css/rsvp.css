@@ -30,6 +30,7 @@ h3 {
 .rsvp-container input[type="submit"] {
   background: url('/images/assets/rsvp/press-heart-button.png');
   border: 0;
+  outline: 0;
   width: 165px;
   height: 141px;
   margin-left: 100px;
