@@ -1,0 +1,37 @@
+{{ partial "header" . }}
+
+<div class="container-fluid rsvp-container">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2 col-sm-12">
+      <img class="deco pink-heart-left" src="/images/assets/rsvp/RVSP_page_icons-26.png">
+      <img class="deco cute-flowers-left" src="/images/assets/rsvp/RVSP_page_icons-28.png">
+      <img class="deco pink-heart-right" src="/images/assets/rsvp/RVSP_page_icons-27.png">
+      <img class="deco cute-flowers-right" src="/images/assets/rsvp/RVSP_page_icons-29.png">
+      <br>
+      <br>
+      <h3>Hello!</h3>
+      <h3>We can't wait to see you July 28!
+      </h3>
+      <br>
+      <h3 class="pink">Please RSVP by March 31, 2018.</h3>
+      <img class="pink-stripe" src="/images/assets/rsvp/RVSP_page_icons-30.png">
+      <form method="post">
+        <h3>You</h3>
+        <input class="form-control" type="text" name="you_name" placeholder="full name">
+        <br>
+        <h3>Your Guest</h3>
+        <input class="form-control" type="text" name="guest_name" placeholder="full name">
+        <br>
+        <h3>Food Allergies?</h3>
+        <input class="form-control longer" type="text" name="food_allergies" placeholder="any we should know about?">
+        <br>
+        <br>
+        <input class="btn btn-default" type="submit" value="">
+        <br>
+        <br>
+      </form>
+    </div>
+  </div>
+</div>
+
+{{ partial "footer" . }}

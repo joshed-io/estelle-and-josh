@@ -1,0 +1,71 @@
+h3 {
+  color: #82b1ed;
+  font-size: 24px !important;
+}
+
+.pink {
+  color: #f3409e;
+  margin-bottom: 0px;
+}
+
+.pink-stripe {
+  width: 385px;
+}
+
+.rsvp-container input {
+  color: #82b1ed;
+  border: 1px solid #82b1ed;
+  border-radius: 0;
+  box-shadow: 0 0 0 0;
+  outline: 0;
+  width: 275px;
+  font-size: 12pt;
+  font-family: Helvetica;
+}
+
+.rsvp-container input.longer {
+  width: 400px;
+}
+
+.rsvp-container input[type="submit"] {
+  background: url('/images/assets/rsvp/press-heart-button.png');
+  border: 0;
+  width: 165px;
+  height: 141px;
+  margin-left: 100px;
+  display: block;
+}
+
+.rsvp-container img.pink-heart-left {
+  position: absolute;
+  width: 60px;
+  top: 69px;
+  left: -60px;
+}
+
+.rsvp-container img.cute-flowers-left {
+  position: absolute;
+  width: 135px;
+  top: 165px;
+  left: -135px;
+}
+
+.rsvp-container img.pink-heart-right {
+  position: absolute;
+  width: 60px;
+  top: 69px;
+  left: 450px;
+}
+
+.rsvp-container img.cute-flowers-right {
+  position: absolute;
+  width: 135px;
+  top: 140px;
+  left: 450px;
+}
+
+@media (max-width: 990px) {
+  .rsvp-container img.deco {
+    display: none;
+  }
+}
