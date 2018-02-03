@@ -2,6 +2,7 @@
 @import "./home.css";
 @import "./story.css";
 @import "./carousel.css";
+@import "./rsvp.css";
 
 body {
   font-family: 'Arial', sans-serif;
