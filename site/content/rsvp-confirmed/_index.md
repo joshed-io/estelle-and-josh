@@ -1,3 +1,3 @@
 +++
-title = "RSVP for Estelle & Josh's Wedding"
+title = "Success! Your RSVP has been sent to Estelle & Josh"
 +++
