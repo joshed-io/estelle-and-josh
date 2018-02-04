@@ -3,10 +3,10 @@
 title = "Frequently Asked Questions for July 26"
 +++
 
-**Hello invitees for Estelle & Josh's wedding ceremony on July 26, 2018!**
+**Hello invitees for our wedding ceremony on July 26, 2018!**
 We're thrilled so many of you are coming to join us in July 🎉
 
-We wanted to get a quick note out to everyone with more information about what's going to happen this summer. We think we have some experiences planned for you that you'll really enjoy. You'll also receive a paper invitation soon with details but there's a longer explanation here. So, on to the Q&A.
+Here's some information about what's going to happen this summer. This should help you book your travel and start planning your stay in France. You will also receive a paper invitation in the mail soon with more details, please keep an eye out for that. But for now, on to the Q&A!
 
 <hr>
 
