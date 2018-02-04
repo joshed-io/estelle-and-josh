@@ -3,6 +3,7 @@
 @import "./story.css";
 @import "./carousel.css";
 @import "./rsvp.css";
+@import "./faq.css";
 
 body {
   font-family: 'Arial', sans-serif;
