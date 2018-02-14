@@ -28,6 +28,7 @@
   width: 60%;
   display: block;
   margin: 0 auto 10px;
+  border-radius: 5px;
 }
 
 @media (max-width: 678px) {
