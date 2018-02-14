@@ -29,3 +29,9 @@
   display: block;
   margin: 0 auto 10px;
 }
+
+@media (max-width: 678px) {
+  .faq-page img {
+    width: 100%;
+  }
+}
