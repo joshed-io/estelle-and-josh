@@ -1,9 +1,9 @@
 
   +++
-title = "Frequently Asked Questions for July 26"
+title = "FAQ for invitees to Estelle & Josh's July 26 & July 28 wedding ceremonies in France"
 +++
 
-**Hello invitees for our wedding ceremony on July 26, 2018!**
+**Hello invitees for two very special days - July 26 and July 28, 2018!**
 We're thrilled so many of you are coming to join us in July 🎉
 
 Here's some information about what's going to happen this summer. This should help you book your travel and start planning your stay in France. You will also receive a paper invitation in the mail soon with more details, please keep an eye out for that. But for now, on to the Q&A!
@@ -14,7 +14,7 @@ Here's some information about what's going to happen this summer. This should he
 This year. 2018. In less than 6 months. But you knew that, right? Good. This was a warm-up question just to make sure you're paying attention.
 
 **Wait, aren't you already married?**
-Technically, in France, yes. We had a [small civil ceremony](/story/mairie-du-7e/) last September 30 at the town hall of the 7th arrondissement of Paris. The reason is to get paperwork started so we can eventually live on the same continent (wouldn't that be nice!)
+Technically, in France, yes. We had a [small civil ceremony](/story/mairie-du-7e/) last September 30 at the town hall of the 7th arrondissement of Paris. That got the paperwork started so we can eventually live on the same continent (wouldn't that be nice!)
 
 !["Signing our lives away"](/images/photos/civil-ceremony-signing.jpg)
 *Signing our livret de famille - very official!*
@@ -32,7 +32,7 @@ Yes, it does! Yes, we do! Thank you for the reminder! :-*
 We recommend arriving in Paris no later than Tuesday, July 24. A few days earlier is even better if you want to get ahead of that jet lag (recommended!). Arriving the previous Saturday or Sunday would, therefore, be perfect ("parfait" in French!). On Wednesday, July 25 you will take transportation that we will prepare from Paris to Rocamadour. It's about a 4-5 hour trip that will start in the morning.
 
 **What will happen on the day of Thursday, July 26?**
-Starting in the early afternoon, we will begin the festivities with a French tradition, the vin d'honneur (the wine of honor). A ceremony will follow, and then we'll continue with dinner and dancing in a castle, the [Château d’Aynac](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Aynac).
+Starting in the early afternoon, we will begin the festivities with a French tradition, the vin d'honneur (the wine of honor). A ceremony will follow, and then we'll continue with dinner and dancing in a castle, the [Château d’Aynac](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Aynac). A very special thank you to the father of the bride, Jean-Luc Murail, for arranging this incredible day!
 
 !["Photo of chateau d'Aynac"](/images/photos/chateau-daynac.png)
 *This is the château where you’ll be feasting!*
