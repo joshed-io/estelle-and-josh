@@ -6,7 +6,7 @@ title = "FAQ for invitees to Estelle & Josh's July 26 & July 28 wedding ceremoni
 **Hello invitees for two very special days - July 26 and July 28, 2018!**
 We're thrilled so many of you are coming to join us in July 🎉
 
-Here's some information about what's going to happen this summer. This should help you book your travel and start planning your stay in France. You will also receive a paper invitation in the mail soon with more details, please keep an eye out for that. But for now, on to the Q&A!
+Here's some information about what's going to happen this week. This should help you book your travel and start planning your stay in France. You will also receive a paper invitation in the mail soon with more details, please keep an eye out for that. But for now, on to the Q&A!
 
 <hr>
 
@@ -43,13 +43,13 @@ You will stay Wednesday and Thursday night in a grand, historical convent called
 !["Photo of Couvent de Gramat"](/images/photos/couvent-de-gramat.png)
 *This is the building where you will stay! (Couvent de Gramat)*
 
-**What will happen on the day of Sunday, July 28?**
+**What will happen on the day of Saturday, July 28?**
 Starting at 4:30pm on Sunday, we will gather you AND even more friends and family in the center of Paris and have a fine evening of celebration, food, drinks, and dancing. You will receive a separate invitation for this event with the full schedule.
 
 !["Photo of 12 rue Chanoinesse"](/images/photos/12-rue-chanoinesse.png)
 *This is the wedding venue in Paris on 12 rue Chanoinesse!*
 
-**Where do I stay in Paris?**
+**Where should I stay in Paris?**
 We don't have a hotel to recommend yet, but many of you might prefer to stay in an AirBnb to get a more local experience (recommended!). You will find good rates and availability since most Parisians leave Paris in the summer to go traveling. Paris will be all yours! When you make the booking, you should do it starting Friday July 27 through at least Sunday July 29. The wedding is just 1 block from Notre Dame on the Île de la Cité, which is right in the middle of Paris (on an island, that's what Île means!) No matter where you stay, you'll be able to get to the wedding ceremony in no time.
 
 **How long should I stay in Paris / Europe?**
