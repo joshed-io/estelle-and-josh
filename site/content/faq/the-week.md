@@ -38,10 +38,13 @@ Starting at 3pm in the afternoon, we will have an exchange of vows followed by a
 *This is the château where you’ll be feasting!*
 
 **Where do I stay when I'm in Gramat?**
-You will stay Wednesday and Thursday night in a grand, converted convent called the [Couvent de Gramat](http://www.grandcouventgramat.fr/en/home). The reservation and cost will be taken care of for you and your guest, including breakfast. If you do have any special needs as far as accommodations go please be sure to let us know. On Friday (not too early!), we will arrange for a bus to take you back to Paris.
+You will stay Wednesday and Thursday night in a grand, converted convent called the [Couvent de Gramat](http://www.grandcouventgramat.fr/en/home). A reservation will already be made for you and your guest, including breakfast. If you do have any special needs as far as accommodations go please be sure to let us know. On Friday (not too early!), we will arrange for a bus to take you back to Paris.
 
 !["Photo of Couvent de Gramat"](/images/photos/couvent-de-gramat.png)
 *This is the building where you will stay! (Couvent de Gramat)*
+
+**Do I have to pay for the bus from Paris and the lodging in Gramat?**
+For those who can afford it, we will ask for a donation toward a part of the expense. The amount is TBD but we expect to be less than $100 per person.
 
 **What will happen on the day of Saturday, July 28?**
 Starting at 4:30pm on Sunday, we will gather you AND even more friends and family in the center of Paris and have a fine evening of celebration, food, drinks, and dancing. You will receive a separate invitation for this event with the full schedule.
