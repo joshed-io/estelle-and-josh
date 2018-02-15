@@ -32,7 +32,7 @@ Yes, it does! Yes, we do! Thank you for the reminder! :-*
 We recommend arriving in Paris no later than Tuesday, July 24. A few days earlier is even better if you want to get ahead of that jet lag (recommended!). Arriving the previous Saturday or Sunday would, therefore, be perfect ("parfait" in French!). On Wednesday, July 25 we will have a bus chartered that will take you from Paris to Gramat, where we are staying. It's about a 5 hour trip that will start in the morning. Time permitting, we'll stop at various points of interest along the way.
 
 **What will happen on the day of Thursday, July 26?**
-Starting in the early afternoon, we will begin the festivities with a French tradition, the vin d'honneur (the wine of honor) at the Couvent de Gramat where you'll be staying. A ceremony will follow, and then we'll continue with dinner and dancing in a castle, the [Château d’Aynac](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Aynac). A very special thank you to the father of the bride, Jean-Luc Murail, for arranging this incredible day!
+Starting at 3pm in the afternoon, we will have an exchange of vows followed by a French tradition, the vin d'honneur (the wine of honor) at the Couvent de Gramat where you'll be staying. A ceremony will follow, and then we'll continue with dinner and dancing in a castle, the [Château d’Aynac](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Aynac). A very special thank you to the father of the bride, Jean-Luc Murail, for arranging this incredible day!
 
 !["Photo of chateau d'Aynac"](/images/photos/chateau-daynac.png)
 *This is the château where you’ll be feasting!*
