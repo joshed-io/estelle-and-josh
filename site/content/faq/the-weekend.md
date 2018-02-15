@@ -35,6 +35,6 @@ We don't have a hotel to recommend yet, but many of you might prefer to stay in 
 Forever! Well actually that would just get you in trouble with the border police. For the Americans, 90 days is the longest you can stay on your short term visa (that includes France and most of continental Europe). By the way, you don't need to do anything to get that visa, it's automatic on your arrival. The only paperwork you need to travel with is your passport. We figure that most guests coming from the states will spend about 2 weeks in Europe, and we are happy to provide (individualized!) recommendations for how to get the best out of that time, whether you fancy Italy or London or even (why not!) Slovenia.
 
 **What should I do if I have any more questions?**
-Send an email to Estelle or Josh, we'll be happy to help!
+Send an email to Estelle or Josh. If we have an answer, we'll give it to you!
 
 !["Gold photo of Josh"](/images/photos/gold-asian-art-museum.png)
