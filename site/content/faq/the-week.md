@@ -49,6 +49,9 @@ Starting at 4:30pm on Sunday, we will gather you AND even more friends and famil
 !["Photo of 12 rue Chanoinesse"](/images/photos/12-rue-chanoinesse.png)
 *This is the wedding venue in Paris on 12 rue Chanoinesse!*
 
+**What is the dress code?**
+Semiformal. We want you to be comfortable!
+
 **Where should I stay in Paris?**
 We don't have a hotel to recommend yet, but many of you might prefer to stay in an AirBnb to get a more local experience (recommended!). You will find good rates and availability since most Parisians leave Paris in the summer to go traveling. Paris will be all yours! When you make the booking, you should do it starting Friday July 27 through at least Sunday July 29. The wedding is just 1 block from Notre Dame on the Île de la Cité, which is right in the middle of Paris (on an island, that's what Île means!) No matter where you stay, you'll be able to get to the wedding ceremony in no time.
 
