@@ -1,3 +1,13 @@
+$("input[name='rsvp']").on("change", function(event) {
+  var rsvp = $("input[name='rsvp']:checked").val();
+  if (rsvp === "Yes") {
+    $(".you-section, .guest-section, .allergies-section").removeClass("hidden");
+  } else {
+    $(".guest-section, .allergies-section").addClass("hidden");
+    $(".you-section").removeClass("hidden");
+  }
+});
+
 $("#rsvp-form").on("submit", function(event) {
   event.preventDefault();
 
