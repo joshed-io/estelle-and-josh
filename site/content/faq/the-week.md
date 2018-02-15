@@ -20,25 +20,25 @@ Technically, in France, yes. We had a [small civil ceremony](/story/mairie-du-7e
 *Signing our livret de famille - very official!*
 
 **How many ceremonies are you having next July?**
-Two (2). One in Rocamadour, France (in the beautiful French countryside) on July 26 and one in Paris on July 28. Both are happening in incredible venues (we're quite lucky there) but have different constraints. For the Thursday reception + dinner in Rocamadour, we can accommodate about 80 people total. For that reason, it's a shorter guest list (and you're on it!). In Paris we can go up to 150 people and can accommodate much more of our friends and family.
+Two (2). One ceremony on July 26 in the [Rocamadour](https://en.wikipedia.org/wiki/Rocamadour) region of France, famous for its vertical city (and cheese!) and another ceremony on July 28 in Paris. Both are happening in incredible venues (we're quite lucky there) but are different in nature. For the Thursday reception + dinner in Aynac, we can accommodate about 80 people total. For that reason, it's a shorter guest list (and you're on it!). In Paris we can have 150 people and accommodate even more of our friends and family.
 
-!["Photo of Rocamadour"](/images/photos/rocamadour.png)
-*This is [Rocamadour](https://en.wikipedia.org/wiki/Rocamadour), a vertical city and a UNESCO World Heritage Site*
+!["Photo of Rocamadour cheese"](/images/photos/rocamadour-cheese.png)
+*Made from unpasteurized goat's milk; flavor: nutty, strong*
 
 **Doesn't two ceremonies mean twice as much planning and don't both of you hate planning?**
 Yes, it does! Yes, we do! Thank you for the reminder! :-*
 
 **Where and when should I plan to arrive in France?**
-We recommend arriving in Paris no later than Tuesday, July 24. A few days earlier is even better if you want to get ahead of that jet lag (recommended!). Arriving the previous Saturday or Sunday would, therefore, be perfect ("parfait" in French!). On Wednesday, July 25 you will take transportation that we will prepare from Paris to Rocamadour. It's about a 4-5 hour trip that will start in the morning.
+We recommend arriving in Paris no later than Tuesday, July 24. A few days earlier is even better if you want to get ahead of that jet lag (recommended!). Arriving the previous Saturday or Sunday would, therefore, be perfect ("parfait" in French!). On Wednesday, July 25 we will have a bus chartered that will take you from Paris to Gramat, where we are staying. It's about a 5 hour trip that will start in the morning. Time permitting, we'll stop at various points of interest along the way.
 
 **What will happen on the day of Thursday, July 26?**
-Starting in the early afternoon, we will begin the festivities with a French tradition, the vin d'honneur (the wine of honor). A ceremony will follow, and then we'll continue with dinner and dancing in a castle, the [Château d’Aynac](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Aynac). A very special thank you to the father of the bride, Jean-Luc Murail, for arranging this incredible day!
+Starting in the early afternoon, we will begin the festivities with a French tradition, the vin d'honneur (the wine of honor) at the Couvent de Gramat where you'll be staying. A ceremony will follow, and then we'll continue with dinner and dancing in a castle, the [Château d’Aynac](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Aynac). A very special thank you to the father of the bride, Jean-Luc Murail, for arranging this incredible day!
 
 !["Photo of chateau d'Aynac"](/images/photos/chateau-daynac.png)
 *This is the château where you’ll be feasting!*
 
-**Where do I stay when I'm in Rocamadour?**
-You will stay Wednesday and Thursday night in a grand, historical convent called the [Couvent de Gramat](http://www.grandcouventgramat.fr/en/home). The reservation will be taken care of for you and your guest. If you do have any special needs as far as accommodations go please be sure to let us know. On Friday (not too early!), we will have transportation for you back to Paris.
+**Where do I stay when I'm in Gramat?**
+You will stay Wednesday and Thursday night in a grand, converted convent called the [Couvent de Gramat](http://www.grandcouventgramat.fr/en/home). The reservation and cost will be taken care of for you and your guest, including breakfast. If you do have any special needs as far as accommodations go please be sure to let us know. On Friday (not too early!), we will arrange for a bus to take you back to Paris.
 
 !["Photo of Couvent de Gramat"](/images/photos/couvent-de-gramat.png)
 *This is the building where you will stay! (Couvent de Gramat)*
@@ -55,7 +55,33 @@ We don't have a hotel to recommend yet, but many of you might prefer to stay in 
 **How long should I stay in Paris / Europe?**
 Forever! Well actually that would just get you in trouble with the border police. For the Americans, 90 days is the longest you can stay on your short term visa (that includes France and most of continental Europe). By the way, you don't need to do anything to get that visa, it's automatic on your arrival. The only paperwork you need to travel with is your passport. We figure that most guests coming from the states will spend about 2 weeks in Europe, and we are happy to provide (individualized!) recommendations for how to get the best out of that time, whether you fancy Italy or London or even (why not!) Slovenia.
 
+<hr>
+**Can I get a summary of all that?**
+
+**Tuesday, July 24**
+Please arrive to Paris this day at the latest, a few days earlier recommended to handle the jet lag.
+
+**Wednesday, July 25**
+9am: Bus from Paris to Gramat (near Rocamadour)
+<br>
+Evening: Lodging provided for you at the Couvent de Gramat
+
+**Thursday, July 26**
+3pm: Ceremony & exchange of vows
+<br>
+4pm: Vin d'honneur at La ferme du Grant Couvent
+<br>
+7pm: Reception & dinner at the Chateau D'Aynac
+
+**Friday, July 27**
+10am: Bus back to Paris
+
+**Saturday, July 28**
+4:30pm: Ceremony and reception begins in Paris at 12 rue chanoinesse
+
+<hr>
+
 **What should I do if I have any more questions?**
-Send an email to Estelle or Josh, we'll be happy to help!
+Send an email to Estelle or Josh. If we have an answer, we'll give it to you!
 
 !["Gold photo of Josh"](/images/photos/gold-asian-art-museum.png)

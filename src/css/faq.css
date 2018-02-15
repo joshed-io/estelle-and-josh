@@ -12,6 +12,10 @@
   margin-bottom: 3px;
 }
 
+.faq-page li {
+  text-align: left;
+}
+
 .faq-page p {
   text-align: left;
   margin-bottom: 30px;
