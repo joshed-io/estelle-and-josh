@@ -6,7 +6,7 @@ title = "FAQ for invitees to Estelle & Josh's July 28 wedding ceremony in France
 **Hello invitees for a very special day - July 28, 2018!**
 We're thrilled so many of you are coming to join us in July 🎉
 
-Here's some information about what's going to happen during this weekend. This should help you book your travel and plan your stay in France. You will also receive a paper invitation in the mail soon with more details, please keep an eye out for that. But for now, on to the Q&A!
+Here's some information about what's going to happen during this weekend. This should help you book your travel and plan your stay in France. On to the Q&A!
 
 <hr>
 
