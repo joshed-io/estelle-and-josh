@@ -12,7 +12,7 @@
   width: 385px;
 }
 
-.rsvp-container input {
+.rsvp-container input[type="text"] {
   color: #82b1ed;
   border: 1px solid #82b1ed;
   border-radius: 0;
@@ -41,28 +41,36 @@
   position: absolute;
   width: 60px;
   top: 69px;
-  left: -60px;
+  left: -70px;
 }
 
 .rsvp-container img.cute-flowers-left {
   position: absolute;
   width: 135px;
   top: 165px;
-  left: -135px;
+  left: -145px;
 }
 
 .rsvp-container img.pink-heart-right {
   position: absolute;
   width: 60px;
   top: 69px;
-  left: 450px;
+  left: 410px;
 }
 
 .rsvp-container img.cute-flowers-right {
   position: absolute;
   width: 135px;
   top: 140px;
-  left: 450px;
+  left: 410px;
+}
+
+.rsvp-yes {
+  color: rgb(174, 200, 63);
+}
+
+.rsvp-no {
+  color: pink;
 }
 
 .rsvp-confirmation img {
