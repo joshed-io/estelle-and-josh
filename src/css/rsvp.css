@@ -65,12 +65,12 @@
   left: 410px;
 }
 
-.rsvp-yes {
-  color: rgb(174, 200, 63);
+.text-green {
+  color: rgb(174, 200, 63) !important;
 }
 
-.rsvp-no {
-  color: pink;
+.text-pink {
+  color: pink !important;
 }
 
 .rsvp-confirmation img {

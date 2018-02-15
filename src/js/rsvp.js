@@ -21,7 +21,7 @@ $("#rsvp-form").on("submit", function(event) {
     },
     success: function() {
       if (rsvp === "Yes") {
-        document.location.href = "/rsvp-confirmed";
+        document.location.href = "/rsvp-yes";
       } else {
         document.location.href = "/rsvp-no";
       }
