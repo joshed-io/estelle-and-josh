@@ -74,13 +74,26 @@ Evening: Lodging provided for you at the Couvent de Gramat
 <br>
 4pm: Vin d'honneur at La ferme du Grant Couvent
 <br>
-7pm: Reception & dinner at the Chateau D'Aynac
+7pm: Reception, dinner and dancing at the Chateau D'Aynac
 
 **Friday, July 27**
 10am: Bus back to Paris
+<br>
+TBD: We'll recommend an informal restaurant / bar to gather at in the evening
 
 **Saturday, July 28**
-4:30pm: Ceremony and reception begins in Paris at 12 rue chanoinesse
+4:30pm: Arrival and welcome in Paris, 12 rue chanoinesse
+<br>
+5:30pm: Ceremony begins
+<br>
+6pm: Cocktail hour
+<br>
+7pm: Dinner
+<br>
+9pm: Music & dancing
+
+**Sunday, July 29**
+TBD
 
 <hr>
 

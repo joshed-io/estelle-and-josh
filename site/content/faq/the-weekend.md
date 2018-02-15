@@ -37,6 +37,28 @@ We don't have a hotel to recommend yet, but many of you might prefer to stay in 
 **How long should I stay in Paris / Europe?**
 Forever! Well actually that would just get you in trouble with the border police. For the Americans, 90 days is the longest you can stay on your short term visa (that includes France and most of continental Europe). By the way, you don't need to do anything to get that visa, it's automatic on your arrival. The only paperwork you need to travel with is your passport. We figure that most guests coming from the states will spend about 2 weeks in Europe, and we are happy to provide (individualized!) recommendations for how to get the best out of that time, whether you fancy Italy or London or even (why not!) Slovenia.
 
+<hr>
+**What's the full schedule?**
+
+**Friday, July 27**
+TBD: We'll recommend an informal restaurant / bar to gather at in the evening
+
+**Saturday, July 28**
+4:30pm: Arrival and welcome in Paris, 12 rue chanoinesse
+<br>
+5:30pm: Ceremony begins
+<br>
+6pm: Cocktail hour
+<br>
+7pm: Dinner
+<br>
+9pm: Music & dancing
+
+**Sunday, July 29**
+TBD
+
+<hr>
+
 **What should I do if I have any more questions?**
 Send an email to Estelle or Josh. If we have an answer, we'll give it to you!
 
