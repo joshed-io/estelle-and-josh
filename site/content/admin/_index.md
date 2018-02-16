@@ -10,8 +10,8 @@ title = "Admin page"
 
 ### FAQ pages
 
-- [FAQ - weekend](/faq/the-weekend)
-- [FAQ - week](/faq/the-week)
+- [FAQ - the week](/faq/the-week)
+- [FAQ - the weekend](/faq/the-weekend)
 
 ### Registry link
 

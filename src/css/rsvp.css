@@ -24,7 +24,7 @@
 }
 
 .rsvp-container input.longer {
-  width: 400px;
+  width: 350px;
 }
 
 .rsvp-container input[type="submit"] {
@@ -91,6 +91,12 @@
 
 .rsvp-container .frame-image {
   width: 250px;
+}
+
+@media (min-width: 768px) {
+  .rsvp-column {
+    width: 450px; margin: 0 auto; position: relative;
+  }
 }
 
 @media (max-width: 990px) {

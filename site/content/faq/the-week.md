@@ -4,8 +4,6 @@ title = "FAQ for invitees to Estelle & Josh's July 26 & July 28 wedding ceremoni
 +++
 
 **Hello invitees for two very special days - July 26 and July 28, 2018!**
-We're thrilled so many of you are coming to join us in July 🎉
-
 Here's some information about what's going to happen this week. This should help you book your travel and start planning your stay in France. On to the Q&A!
 
 <hr>
