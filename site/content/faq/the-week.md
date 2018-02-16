@@ -66,7 +66,7 @@ Forever! Well actually that would just get you in trouble with the border police
 **Can I get a summary of all that?**
 
 **Tuesday, July 24**
-Please arrive to Paris this day at the latest, a few days earlier recommended to handle the jet lag.
+Please arrive to Paris this day at the latest, a few days earlier recommended to handle the jet lag. You'll need your own accommodations for Tuesday night and before.
 
 **Wednesday, July 25**
 9am: Bus from Paris to Gramat (near Rocamadour)
