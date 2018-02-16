@@ -21,7 +21,7 @@ Technically, in France, yes. We had a [small civil ceremony](/story/mairie-du-7e
 We recommend arriving in Paris no later than Thursday, July 26. A few days earlier is even better if you want to get ahead of that jet lag (recommended!).
 
 **What will happen on the day of Saturday, July 28?**
-Starting at 4:30pm on Sunday, we will gather you AND even more friends and family in the center of Paris and have a fine evening of celebration, food, drinks, and dancing. You will receive a separate invitation for this event with the full schedule.
+Starting at 4:30pm on Sunday, we will gather our friends and family in the center of Paris for a cheerful evening of celebration, food, drinks, and (of course!) dancing. You can see the full schedule at the end of this FAQ.
 
 !["Photo of 12 rue Chanoinesse"](/images/photos/12-rue-chanoinesse.png)
 *This is the wedding venue in Paris on 12 rue Chanoinesse!*
