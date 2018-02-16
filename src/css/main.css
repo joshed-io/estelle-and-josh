@@ -9,8 +9,12 @@ body {
   font-family: 'Arial', sans-serif;
 }
 
-h1, h3 {
+h1, h3, .mystery {
   font-family: MagicalMysteryTour;
+}
+
+.mystery a {
+  text-decoration: none;
 }
 
 @media (min-width: 678px) {
@@ -23,9 +27,10 @@ h1, h3 {
   h3 {
     font-size: 2em;
   }
-  h4 {
-    font-size: 2em;
-  }
+}
+
+h4 {
+  font-size: 2em;
 }
 
 .footer {
