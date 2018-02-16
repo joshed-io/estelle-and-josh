@@ -78,6 +78,17 @@
   margin: 0 auto;
 }
 
+.registry-image-link {
+  display: block;
+  margin-left: 80px;
+}
+
+@media (max-width: 768px) {
+  .registry-image-link {
+    margin-left: 0px;
+  }
+}
+
 .rsvp-container .frame-image {
   width: 250px;
 }
