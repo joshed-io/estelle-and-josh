@@ -48,7 +48,7 @@ You will stay Wednesday and Thursday night in a grand, converted convent called 
 For those who can afford it, we will ask for a donation toward a part of the expense. The amount is TBD but we expect to be less than $100 per person.
 
 **What will happen on the day of Saturday, July 28?**
-Starting at 4:30pm on Sunday, we will gather our friends and family in the center of Paris for a cheerful evening of celebration, food, drinks, and (of course!) dancing. You can see the full schedule at the end of this FAQ.
+Starting at 4:30pm on Saturday, we will gather our friends and family in the center of Paris for a cheerful evening of celebration, food, drinks, and (of course!) dancing. You can see the full schedule at the end of this FAQ.
 
 !["Photo of 12 rue Chanoinesse"](/images/photos/12-rue-chanoinesse.png)
 *This is the wedding venue in Paris on 12 rue Chanoinesse!*
