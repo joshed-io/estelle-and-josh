@@ -69,7 +69,7 @@ Forever! Well actually that would just get you in trouble with the border police
 Please arrive to Paris this day at the latest, a few days earlier recommended to handle the jet lag. You'll need your own accommodations for Tuesday night and before.
 
 **Wednesday, July 25**
-9am: Bus from Paris to Gramat (near Rocamadour)
+10am: Bus from Paris to Gramat (near Rocamadour)
 <br>
 Evening: Lodging provided for you at the Couvent de Gramat
 
