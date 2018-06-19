@@ -30,22 +30,28 @@ Yes, it does! Yes, we do! Thank you for the reminder! :-*
 We recommend arriving in Paris no later than Tuesday, July 24. A few days earlier is even better if you want to get ahead of that jet lag (recommended!). Arriving the previous Saturday or Sunday would, therefore, be perfect ("parfait" in French!).
 
 **How do I get from Paris to Gramat?**
-On Wednesday, July 25 we will have a bus chartered that will take you from Paris to Gramat, where you will be staying. It's about a 5 hour trip that will start in the morning. Time permitting, we'll stop at various points of interest along the way. Once we know the rendezvous time and place in Paris, we'll add it here and email it to you.
-
-**What will happen on the day of Thursday, July 26?**
-Starting at 3pm in the afternoon, we will have an exchange of vows followed by a French tradition, the vin d'honneur (the wine of honor) at the Couvent de Gramat where you'll be staying. A ceremony will follow, and then we'll continue with dinner and dancing in a castle, the [Château d’Aynac](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Aynac). A very special thank you to the father of the bride, Jean-Luc Murail, for arranging this incredible day!
-
-!["Photo of chateau d'Aynac"](/images/photos/chateau-daynac.png)
-*This is the château where you’ll be feasting!*
+On Wednesday, July 25 we will have a bus chartered that will take you from Paris to Gramat, where you will be staying. The bus will leave at 9am from a meeting point at the [Champs de Mars](https://goo.gl/maps/NZcSTbhhHQv). We'll make one stop for lunch and another 2 hour stop in Rocamadour where you can hike up and down the vertical city, or just have a drink in a properly medieval bar. We'll arrive at the Couvent de Gramat at 7pm, where you can check into your accommodations. Downtown Gramat is not far from the Couvent, and we will provide recommendations for where to eat that night while on the bus.
 
 **Where do I stay when I'm in Gramat?**
-You will stay Wednesday and Thursday night in a grand, converted convent called the [Couvent de Gramat](http://www.grandcouventgramat.fr/en/home). A reservation will already be made for you and your guest, including breakfast. If you do have any special needs as far as accommodations go please be sure to let us know. On Friday (not too early!), we will arrange for a bus to take you back to Paris.
+You will stay Wednesday and Thursday night in a grand, converted convent called the [Couvent de Gramat](http://www.grandcouventgramat.fr/en/home). A reservation will already be made for you and your guest, including breakfast on both mornings. If you do have any special needs as far as accommodations go please be sure to let us know. On Friday at 1pm, we will all hop on a bus together back to Paris.
 
 !["Photo of Couvent de Gramat"](/images/photos/couvent-de-gramat.png)
 *This is the building where you will stay! (Couvent de Gramat)*
 
 **Do I have to pay for the bus from Paris and the lodging in Gramat?**
-For those who can afford it, we will ask for a donation toward a part of the expense. The amount is TBD but we expect to be less than $100 per person.
+We are asking for a donation of 100 EUR a person to cover the bus, 2 nights lodging, and 2 mornings breakfast. 100 EUR is about $115 USD. Please send Josh a Venmo or a Paypal to jdzielak+paypal@gmail.com.
+
+**What will happen on the day of Thursday, July 26?**
+Starting at 3pm in the afternoon, we will have a short ceremony followed by a French tradition, the Vin d'Honneur ("wine of honor") at the Couvent de Gramat. Then we'll continue with dinner and dancing in a castle, the [Château d’Aynac](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Aynac). A very special thank you to the father of the bride, Jean-Luc Murail, for arranging this incredible day!
+
+!["Photo of chateau d'Aynac"](/images/photos/chateau-daynac.png)
+*This is the château where you’ll be feasting!*
+
+**What is the dress code?**
+Summer semiformal (is that a thing?). We want you to be comfortable! Button-downs, suits and blazers won't be out of place, nor will dresses, skirts and pantsuits.
+
+**What will happen on the day of Friday, July 27?**
+We take a bus from Gramat to Paris and arrive in Paris at 7pm. At 9pm, Estelle and Josh invite you to a reception at their apartment located at 143 Raspail Boulevard.
 
 **What will happen on the day of Saturday, July 28?**
 Starting at 4:30pm on Saturday, we will gather our friends and family in the center of Paris for a cheerful evening of celebration, food, drinks, and (of course!) dancing. You can see the full schedule at the end of this FAQ.
@@ -53,14 +59,8 @@ Starting at 4:30pm on Saturday, we will gather our friends and family in the cen
 !["Photo of 12 rue Chanoinesse"](/images/photos/12-rue-chanoinesse.png)
 *This is the wedding venue in Paris on 12 rue Chanoinesse!*
 
-**What is the dress code?**
-Summer semiformal (is that a thing?). We want you to be comfortable!
-
 **Where should I stay in Paris?**
-We don't have a hotel to recommend yet, but many of you might prefer to stay in an AirBnb to get a more local experience (recommended!). You will find good rates and availability since most Parisians leave Paris in the summer to go traveling. Paris will be all yours! When you make the booking, you should do it starting Friday July 27 through at least Sunday July 29. The wedding is just 1 block from Notre Dame on the Île de la Cité, which is right in the middle of Paris (on an island, that's what Île means!) No matter where you stay, you'll be able to get to the wedding ceremony in no time.
-
-**How long should I stay in Paris / Europe?**
-Forever! Well actually that would just get you in trouble with the border police. For the Americans, 90 days is the longest you can stay on your short term visa (that includes France and most of continental Europe). By the way, you don't need to do anything to get that visa, it's automatic on your arrival. The only paperwork you need to travel with is your passport. We figure that most guests coming from the states will spend about 2 weeks in Europe, and we are happy to provide (individualized!) recommendations for how to get the best out of that time, whether you fancy Italy or London or even (why not!) Slovenia.
+We don't have a hotel to recommend yet, but many of you might prefer to stay in an AirBnb to get a more local and likely cheaper experience. You will find good rates and availability since most Parisians leave Paris in the summer to go traveling. Paris will be all yours! When you make the booking, you should do it starting Friday July 27 through at least Sunday July 29. The wedding is just 1 block from Notre Dame on the Île de la Cité, which is right in the middle of Paris (on an island, that's what Île means!) No matter where you stay, you'll be able to get to the wedding ceremony in no time.
 
 <hr>
 **Can I get a summary of all that?**
@@ -69,24 +69,28 @@ Forever! Well actually that would just get you in trouble with the border police
 Please arrive to Paris this day at the latest, a few days earlier recommended to handle the jet lag. You'll need your own accommodations for Tuesday night and before.
 
 **Wednesday, July 25**
-10am: Bus from Paris to Gramat (near Rocamadour)
+9am: Bus from Paris to Gramat leaving from the Champs de Mars
 <br>
 Evening: Lodging provided for you at the Couvent de Gramat
 
 **Thursday, July 26**
-3pm: Ceremony & exchange of vows
+3pm: Ceremony
 <br>
-4pm: Vin d'honneur at La ferme du Grant Couvent
+4pm: Vin d'Honneur at La ferme du Grant Couvent
 <br>
 7pm: Reception, dinner and dancing at the Chateau D'Aynac
+<br>
+11pm on: Bus back and lodging provided for you at the Couvent de Gramat
 
 **Friday, July 27**
 10am: Bus back to Paris
 <br>
-TBD: We'll recommend an informal restaurant / bar to gather at in the evening
+7pm: Arrive in Paris, check into your accommodations
+<br>
+9pm: Reception and Estelle & Josh's apartment - 143 Raspail
 
 **Saturday, July 28**
-4:30pm: Arrival and welcome in Paris, 12 rue chanoinesse
+4:30pm: Arrival and welcome in Paris, 12 Rue Chanoinesse
 <br>
 5:30pm: Ceremony begins
 <br>
@@ -97,7 +101,16 @@ TBD: We'll recommend an informal restaurant / bar to gather at in the evening
 9pm: Music & dancing
 
 **Sunday, July 29**
-TBD
+12pm - Brunch to be announced
+<br>
+
+<hr>
+
+**Contact information**
+If you need help while you're in France, please contact:
+
+- Josh at ‭+33 07 67 94 85 19‬
+- Estelle at ‭+33 06 15 29 03 27‬
 
 <hr>
 
