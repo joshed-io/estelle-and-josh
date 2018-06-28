@@ -8,9 +8,6 @@ Here's some information about what's going to happen this week. This should help
 
 <hr>
 
-**What year are you getting married in?**
-This year. 2018. In less than 6 months. But you knew that, right? Good. This was a warm-up question just to make sure you're paying attention.
-
 **Wait, aren't you already married?**
 Technically, in France, yes. We had a [small civil ceremony](/story/mairie-du-7e/) last September 30 at the town hall of the 7th arrondissement of Paris. That got the paperwork started so we can eventually live on the same continent (wouldn't that be nice!)
 
@@ -87,7 +84,7 @@ Evening: Lodging provided for you at the Couvent de Gramat
 <br>
 7pm: Arrive in Paris, check into your accommodations
 <br>
-9pm: Reception and Estelle & Josh's apartment - 143 Raspail
+8pm: Apéro / cocktail: Location TBD in the 6th arrondissement
 
 **Saturday, July 28**
 4:30pm: Arrival and welcome in Paris, 12 Rue Chanoinesse
