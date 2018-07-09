@@ -1,12 +1,11 @@
 +++
-title = "Wedding Weekend Guide — Estelle & Josh, Paris 2018"
+title = "Wedding Guest Guide — #EstelleAndJosh Paris 2018"
 description = "Everything you need to know about the wedding weekend July 27-29, 2018"
 outputs = ["Reveal"]
 
 [reveal_hugo]
 custom_theme = "themes/dzello.css"
 margin = 0.2
-highlight_theme = "color-brewer"
 transition = "slide"
 transition_speed = "fast"
 +++
