@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Estelle & Josh — Two people who like each other"
 baseURL = "https://estelle.and.dzello.com/"
-theme = "reveal-hugo"
+theme = ["reveal-hugo"]
 
 [params]
 description = "A compilation of our favorite stories and photos from when we met until now."
