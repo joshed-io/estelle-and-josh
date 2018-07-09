@@ -119,10 +119,10 @@ Dancing will begin around 9pm and continue until midnight. The music selection w
 
 # Open House Brunch
 
-- Address: [143 Boulevard Raspail](https://goo.gl/maps/cfBbNe6s2vM2)
+- Come see our apartment and sample the best bread, fruit and pastries in the 6th.
+- Our address is [143 Boulevard Raspail](https://goo.gl/maps/cfBbNe6s2vM2).
 - Arrive anytime between 10am and 2pm.
-- The building code will be emailed to you. Call up when you arrive.
-- We'll put out the best bread, fruit and pastries from our neighborhood.
+- The building code will be emailed to you, call up when you arrive.
 - If you'd like a beverage with your brunch, please bring it!
 - At 2pm, we'll move to the pelouse at the [Jardin du Luxembourg](https://goo.gl/maps/CNVJRdwYRKm).
 
