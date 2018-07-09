@@ -1,0 +1,3 @@
+[submodule "site/themes/reveal-hugo"]
+	path = site/themes/reveal-hugo
+	url = git@github.com:dzello/reveal-hugo.git
