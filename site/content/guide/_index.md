@@ -72,7 +72,7 @@ We hope you find it useful!
 - Semi-formal attire (suit + tie optional for men)
 
 <br>
-🗒️ *Weather permitting, the ceremony will take place outdoors. The reception will expand into an indoor area.*
+🗒️ *Weather permitting, the ceremony will take place outdoors. The reception will expand to include an indoor area.*
 
 ---
 
