@@ -18,46 +18,26 @@ Technically, in France, yes. We had a [small civil ceremony](/story/mairie-du-7e
 We recommend arriving in Paris no later than Thursday, July 26. A few days earlier is even better if you want to get ahead of that jet lag (recommended!).
 
 **What will happen on the day of Saturday, July 28?**
-Starting at 4:30pm on Saturday, we will gather our friends and family in the center of Paris for a cheerful evening of celebration, food, drinks, and (of course!) dancing. You can see the full schedule at the end of this FAQ.
+Starting at 4:30pm on Saturday, we will gather in the center of Paris for a cheerful evening of celebration, food, drinks, and (of course!) dancing. You can see the full schedule at the end of this page.
 
 !["Photo of 12 rue Chanoinesse"](/images/photos/12-rue-chanoinesse.png)
 *This is the wedding venue in Paris on 12 rue Chanoinesse!*
 
 **What is the dress code?**
-Summer semiformal (is that a thing?). We want you to be comfortable! Button-downs, suits and blazers won't be out of place, nor will dresses, skirts and pantsuits.
+{{< wedding "dress_code" >}}
 
 **Where should I stay in Paris?**
 We don't have a hotel to recommend yet, but many of you might prefer to stay in an AirBnb to get a more local experience (recommended!). You will find good rates and availability since most Parisians leave Paris in the summer to go traveling. Paris will be all yours! When you make the booking, you should do it no later than Friday July 27 through at least Sunday July 29. The wedding is just 1 block from Notre Dame on the Île de la Cité, which is right in the middle of Paris (on an island, that's what Île means!) No matter where you stay, you'll be able to get to the wedding ceremony in no time.
 
 <hr>
 
-**What's the full schedule?**
-
-**Friday, July 27**
-8pm: Apéro / cocktail: Location TBD in the 6th arrondissement
-
-**Saturday, July 28**
-4:30pm: Arrival and welcome in Paris, 12 rue chanoinesse
-<br>
-5:30pm: Ceremony begins
-<br>
-6pm: Cocktail hour
-<br>
-7pm: Dinner
-<br>
-9pm: Music & dancing
-
-**Sunday, July 29**
-12pm - Brunch to be announced
-<br>
+**What's the schedule?**
+{{< wedding "schedule" >}}
 
 <hr>
 
 **Contact information**
-If you need help while you're in France, please contact:
-
-- Josh at ‭+33 07 67 94 85 19‬
-- Estelle at ‭+33 06 15 29 03 27‬
+{{< wedding "contact" >}}
 
 <hr>
 
