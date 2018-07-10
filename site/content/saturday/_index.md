@@ -14,12 +14,11 @@ transition_speed = "fast"
 
 # 💒
 
-## Your Wedding Guide
+## Wedding Guide
 
 ### Paris &middot; July 28, 2018
 
-<br>
-#### [#EstelleAndJosh](https://www.instagram.com/explore/tags/estelleandjosh/)
+**[#EstelleAndJosh](https://www.instagram.com/explore/tags/estelleandjosh/)**
 
 {{% /slide %}}
 
@@ -50,13 +49,16 @@ transition_speed = "fast"
 
 ---
 
-# Saturday Evening Outline
+# Ceremony & Reception
 
-- 5:30pm: Ceremony
-- 6pm: Cocktail
-- 7pm: Cocktail dînatoire
-- 8:30pm: Cutting of the cake
-- 9pm-12am: Dancing
+|        |                    |
+|--------|--------------------|
+| 5:30pm | Ceremony           |
+| 6pm    | Cocktail           |
+| 7pm    | Cocktail dînatoire |
+| 8:30pm | Cutting the cake   |
+| 9pm    | Dancing            |
+|        |                    |
 
 ---
 
@@ -86,15 +88,15 @@ Dancing will begin around 9pm and continue until midnight. The music selection w
 
 # #️⃣
 
-# [#EstelleAndJosh](https://www.instagram.com/explore/tags/estelleandjosh/)
+Welcome to 2018, our wedding has a hashtag.
 
-Welcome to 2018, our wedding has a hashtag. Tag [#EstelleAndJosh](https://www.instagram.com/explore/tags/estelleandjosh/) on photos and videos you share throughout the weekend.
+Add **[#EstelleAndJosh](https://www.instagram.com/explore/tags/estelleandjosh/)** to photos and videos you share throughout the weekend.
 
 ---
 
 {{% slide background-color="#f6f195" %}}
 
-# 🙇‍♂️ 🙇‍♀️
+# 🤓
 
 # Thanks for reading!
 
