@@ -4,7 +4,7 @@
  * By Hakim El Hattab, http://hakim.se
  */
 
-@import url('https://fonts.googleapis.com/css?family=Lato:300|Markazi+Text:700');
+@import url('https://fonts.googleapis.com/css?family=Lato:300|Lora:700');
 
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #141414; }
@@ -90,30 +90,31 @@ body {
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  margin: 0 0 20px 0;
+  margin: 0 0 30px 0;
   color: #141414;
-  font-family: 'Markazi Text', serif;
+  font-family: 'Lora', serif;
   font-weight: 700;
   line-height: 1.2;
   letter-spacing: normal;
-  /* text-transform: uppercase; */
+  text-transform: uppercase;
   text-shadow: none;
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 3em; }
-
-.reveal h2 {
-  font-size: 2.4em; }
-
-.reveal h3 {
-  font-size: 1.9em; }
-
-.reveal h4 {
-  font-size: 1.5em; }
+  text-shadow: none; }
 
 .reveal h1 {
-  text-shadow: none; }
+font-size: 2.0em; }
+
+.reveal h2 {
+font-size: 1.8em; }
+
+.reveal h3 {
+font-size: 1.4em; }
+
+.reveal h4 {
+font-size: 1.2em; }
+
 
 /*********************************************
  * OTHER
