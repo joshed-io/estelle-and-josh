@@ -26,7 +26,7 @@ transition_speed = "fast"
 
 This guide contains information about events happening during the weekend and general tips about being in Paris.
 
-We hope you find it useful!
+For offline access, you can [download it as a PDF](/wedding-weekend-guide.pdf).
 
 ---
 
@@ -167,7 +167,7 @@ Around 3pm we'll move to one of the grassy sitting areas at the [Jardin du Luxem
 
 {{% slide background-color="#f6f195" %}}
 
-# 🙋‍♀️
+# 🙋‍
 
 # Part 2: Tips & Information
 
