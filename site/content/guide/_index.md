@@ -18,7 +18,7 @@ transition_speed = "fast"
 
 ### Paris &middot; July 27-29, 2018
 
-**[#EstelleAndJosh](https://www.instagram.com/explore/tags/estelleandjosh/)**
+**[#EstelleAndJosh](https://www.instagram.com/explore/tags/EstelleAndJosh/)**
 
 {{% /slide %}}
 
@@ -189,7 +189,7 @@ Around 3pm we'll move to one of the grassy sitting areas at the [Jardin du Luxem
 
 Welcome to 2018, our wedding has a hashtag.
 
-Add **[#EstelleAndJosh](https://www.instagram.com/explore/tags/estelleandjosh/)** to photos and videos you share throughout the weekend.
+Add **[#EstelleAndJosh](https://www.instagram.com/explore/tags/EstelleAndJosh/)** to photos and videos you share throughout the weekend.
 
 ---
 
@@ -238,7 +238,7 @@ And thank you so much for coming. It means the world to us.
 
 ![](/images/photos/gold-asian-art-museum.png)
 
-[#EstelleAndJosh](https://www.instagram.com/explore/tags/estelleandjosh/)
+[#EstelleAndJosh](https://www.instagram.com/explore/tags/EstelleAndJosh/)
 
 *See you soon!*
 

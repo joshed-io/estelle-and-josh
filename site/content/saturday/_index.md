@@ -18,7 +18,7 @@ transition_speed = "fast"
 
 ### Paris &middot; July 28, 2018
 
-**[#EstelleAndJosh](https://www.instagram.com/explore/tags/estelleandjosh/)**
+**[#EstelleAndJosh](https://www.instagram.com/explore/tags/EstelleAndJosh/)**
 
 {{% /slide %}}
 
@@ -100,7 +100,7 @@ Dancing will begin around 9pm and continue until midnight. The music selection w
 
 Welcome to 2018, our wedding has a hashtag.
 
-Add **[#EstelleAndJosh](https://www.instagram.com/explore/tags/estelleandjosh/)** to photos and videos you share throughout the weekend.
+Add **[#EstelleAndJosh](https://www.instagram.com/explore/tags/EstelleAndJosh/)** to photos and videos you share throughout the weekend.
 
 ---
 
@@ -120,7 +120,7 @@ And thank you so much for coming. It means the world to us.
 
 ![](/images/photos/gold-asian-art-museum.png)
 
-[#EstelleAndJosh](https://www.instagram.com/explore/tags/estelleandjosh/)
+[#EstelleAndJosh](https://www.instagram.com/explore/tags/EstelleAndJosh/)
 
 *See you soon!*
 
