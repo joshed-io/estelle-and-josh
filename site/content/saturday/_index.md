@@ -49,6 +49,16 @@ transition_speed = "fast"
 
 ---
 
+# 👗 👔
+
+# Semi-formal attire
+
+- Above cocktail attire and below black tie
+- [Knee or full-length dress for women](https://www.thetrendspotter.net/semi-formal-dress-code-women/)
+- [Suit with tie optional for men](https://www.dmarge.com/2016/05/difference-formal-semi-formal.html)
+
+---
+
 # Ceremony & Reception
 
 |        |                    |
