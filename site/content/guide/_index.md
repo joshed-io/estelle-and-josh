@@ -67,7 +67,7 @@ If you already have a jam-packed Paris itinerary, please don't feel the need to 
 - Friday 8-11pm
 - BYO snacks and drinks
 - Location: [Pont Marie](https://goo.gl/maps/5SdKUj5mhtQ2), north bank
-- Metro: Saint Paul Line 4
+- Metro: Saint Paul Line 1
 - Directions: Descend from the bridge on the north side and head west along the water toward Pont Louis Phillipe.
 
 ---
