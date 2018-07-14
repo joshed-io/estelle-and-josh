@@ -24,7 +24,7 @@ transition_speed = "fast"
 
 ---
 
-# 🤵👰
+# 🎉
 
 # Saturday, July 28
 
@@ -82,7 +82,7 @@ Vegetarian and other restrictions will be clearly labeled. You may sit down at a
 
 ---
 
-# 🍷🥂🍺☕🍵🥤
+# 🍷🍺 ☕🍵
 
 To drink we will have a selection of French champagne, red and white wine in addition to non-alcoholic soft drinks, juice, coffee and tea. We'll also have beer served by a local Paris craft brewer.
 
@@ -90,7 +90,7 @@ We'll also have water available for anyone who's dancing really hard.
 
 ---
 
-# 💃🕺
+# 👯
 
 Dancing will begin around 9pm and continue until midnight. The music selection will include both American and French hits as well as some of our favorite dance-friendly beats.
 
