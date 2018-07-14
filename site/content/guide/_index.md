@@ -217,8 +217,8 @@ Google Maps will give you metro directions for any itinerary if you click on the
 
 Many Paris cafés and restaurants have WiFi, but you can also get a [prepaid SIM card](https://www.lefrenchmobile.com/) and have data everywhere. Should you need anything while in France, here are our phone numbers:
 
-- Josh: +33 07 67 94 85 19
-- Estelle: +33 06 15 29 03 27
+- Josh: +33 7 67 94 85 19
+- Estelle: +33 6 15 29 03 27
 
 ---
 
