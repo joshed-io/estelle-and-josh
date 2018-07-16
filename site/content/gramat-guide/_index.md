@@ -1,6 +1,6 @@
 +++
 title = "Wedding Trip Guide — #EstelleAndJosh — Gramat 2018"
-description = "Everything you need to know about the trip and ceremony in Rocamadour"
+description = "Everything you need to know about the trip and ceremony in Gramat"
 outputs = ["Reveal"]
 
 [reveal_hugo]
@@ -26,7 +26,7 @@ transition_speed = "fast"
 
 # 🗒️
 
-This guide contains information about the trip down to Rocamadour and events that will take place there.
+This guide contains information about the trip down to Gramat and events that will take place there.
 
 If you're looking for the weekend guide to Paris instead, [find it here](/guide).
 
@@ -38,7 +38,7 @@ If you're looking for the weekend guide to Paris instead, [find it here](/guide)
 
 # Wednesday, July 25
 
-**9am**: Bus departs from Paris to Rocamadour
+**9am**: Bus departs from Paris to Gramat
 
 {{% /slide %}}
 
@@ -148,7 +148,7 @@ Your room number will be given to you on board the bus.
 
 This night is all yours. The couvent is a short walk from the town center, where there are many shops and restaurants to enjoy.
 
-Recommendation: Try locally-made Rocamadour cheese and an apéritif of vin de noix (walnut wine).
+**Recommendation**: Try locally-made Rocamadour cheese and an apéritif of vin de noix (walnut wine).
 
 ---
 
