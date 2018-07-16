@@ -130,15 +130,7 @@ Rooms have been pre-assigned to ensure your comfort.
 
 Couples have their own room. Singles either have their own room or are sharing with 1-2 others.
 
----
-
-# 🛏️
-
-# Rooms at the Couvent
-
 If you're a single and want your own room, just let us know.
-
-Your room number will be given to you on board the bus.
 
 ---
 
