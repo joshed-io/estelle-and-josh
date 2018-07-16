@@ -290,6 +290,16 @@ For what comes next, please see the [Wedding Weekend Guide](/guide).
 
 {{% slide background-color="#a5e2fd" %}}
 
+# ❤️
+
+**Thank you** to everyone who donated<br> to help cover the cost of the bus and the lodging!
+
+{{% /slide %}}
+
+---
+
+{{% slide background-color="#a5e2fd" %}}
+
 ![](/images/wedding/worldcup.jpg)
 
 [#EstelleAndJosh](https://www.instagram.com/explore/tags/EstelleAndJosh/)
