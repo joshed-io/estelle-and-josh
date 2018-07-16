@@ -42,6 +42,14 @@ transition_speed = "fast"
 
 {{% slide background-color="#f6f195" %}}
 
+{{< add-slide "registry" >}}
+
+{{% /slide %}}
+
+---
+
+{{% slide background-color="#f6f195" %}}
+
 {{< add-slide "seeyousoon" >}}
 
 {{% /slide %}}

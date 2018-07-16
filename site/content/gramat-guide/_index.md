@@ -112,7 +112,7 @@ The city is 254 meters tall.
 
 Around 6pm the bus will arrive at our final destination, where you'll be staying for the next two nights.
 
-Like all good couvents, this one has a [website](http://www.grandcouventgramat.fr/en/home).
+Like all good convents, this one has a [website](http://www.grandcouventgramat.fr/en/home).
 
 ---
 
@@ -138,7 +138,7 @@ Couples have their own room. Singles either have their own room or are sharing w
 
 If you're a single and want your own room, just let us know.
 
-All you'll need is your name when you check in - don't leave it at home!
+Your room number will be given to you on board the bus.
 
 ---
 
@@ -152,7 +152,7 @@ Recommendation: Try locally-made Rocamadour cheese and an apéritif of vin de no
 
 ---
 
-# 🍳
+# 🍞 ☕
 
 # Breakfast at the Couvent
 
@@ -176,6 +176,7 @@ Breakfast is provided each morning of your accommodation.
 
 We recommend you eat a full breakfast and lunch, dinner isn't until 7pm.
 
+<br>
 <small>Hangry guests will be taken aside and fed stinky cheese.</small>
 
 ---
@@ -192,9 +193,10 @@ We recommend you eat a full breakfast and lunch, dinner isn't until 7pm.
 
 # 🔥
 
-# Avoid "Attire Fire"
+# Don't be "Attire Fire"
 
-Feel free to dress more casually than for Saturday if you'd like. It might be hot.
+Feel free to dress more casually than for Saturday if you'd like. The weather might be hot.
+
 This day starts earlier and goes longer. Please prioritize your comfort.
 
 ---
@@ -228,6 +230,8 @@ At 4pm, we will invite locals from the region to raise a glass with us, as goes 
 
 Around 6pm, we will board a bus headed to the castle where we will eat, drink and dance.
 
+A return bus will operate from 11pm onward.
+
 <br>
 
 > "au" means "at the" and is pronounced **oh**, the noise you make when you learn something new
@@ -236,15 +240,69 @@ Around 6pm, we will board a bus headed to the castle where we will eat, drink an
 
 ![](/images/wedding/chateau-daynac.png)
 
-<small>There's Estelle and her dad again at the château, aren't they cute?</small>
+<small>There's Estelle and her dad again at the château. Aren't they cute?</small>
 
 ---
+
+# 🎹 🎸 🥁
+
+# Jamais Deux Sans Trois
+
+The talented trio of Damien, Stephane and Sandrine will entertain us with music from the genre *accordion soundbath*.
+
+[Immerse yourself now](https://www.facebook.com/jdst24/videos/772720922868908/) or just [get to know them](http://jdst24.centerblog.net/).
+
+> <small>The band name translates to "never two without three" and is a French expression that roughly means "things tend to repeat".</small>
 
 ---
 
 {{% slide background-color="#a5e2fd" %}}
 
-{{< add-slide "seeyousoon" >}}
+# 🚌
+
+# Friday, July 27
+
+**12:30pm**: Bus trip from the Grant Couvent to Paris
+
+{{% /slide %}}
+
+---
+
+# 🚌
+
+# Return bus trip
+
+We will leave the convent at 12:30pm and arrive in Paris in the early evening around 6pm. We will stop once for food.
+
+---
+
+{{% slide background-color="#a5e2fd" %}}
+
+# 🎉
+
+# Et voilà!
+
+For what comes next, please see the [Wedding Weekend Guide](/guide).
+
+{{% /slide %}}
+
+---
+
+{{% slide background-color="#a5e2fd" %}}
+
+{{< add-slide "registry" >}}
+
+{{% /slide %}}
+
+---
+
+{{% slide background-color="#a5e2fd" %}}
+
+![](/images/wedding/worldcup.jpg)
+
+[#EstelleAndJosh](https://www.instagram.com/explore/tags/EstelleAndJosh/)
+
+*Allez les bleus!*
 
 {{% /slide %}}
 

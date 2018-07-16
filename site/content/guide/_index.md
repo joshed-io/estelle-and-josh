@@ -160,6 +160,14 @@ Many Paris cafés and restaurants have WiFi, but you can also get a [prepaid SIM
 
 {{% slide background-color="#f6f195" %}}
 
+{{< add-slide "registry" >}}
+
+{{% /slide %}}
+
+---
+
+{{% slide background-color="#f6f195" %}}
+
 {{< add-slide "seeyousoon" >}}
 
 {{% /slide %}}
