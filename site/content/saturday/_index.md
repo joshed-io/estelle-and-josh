@@ -4,7 +4,7 @@ description = "Everything you need to know about what's happening on July 28, 20
 outputs = ["Reveal"]
 
 [reveal_hugo]
-custom_theme = "themes/dzello-yellow.css"
+custom_theme = "reveal-hugo/themes/sunblind.css"
 margin = 0.2
 transition = "slide"
 transition_speed = "fast"

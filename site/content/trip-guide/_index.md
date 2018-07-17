@@ -4,7 +4,7 @@ description = "Everything you need to know about the trip and ceremony in Gramat
 outputs = ["Reveal"]
 
 [reveal_hugo]
-custom_theme = "themes/dzello-blue.css"
+custom_theme = "reveal-hugo/themes/sunblind-blue.css"
 margin = 0.2
 transition = "slide"
 transition_speed = "fast"
