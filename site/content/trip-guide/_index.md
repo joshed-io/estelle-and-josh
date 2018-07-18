@@ -240,9 +240,9 @@ A return bus will operate from 11pm onward.
 
 # Jamais Deux Sans Trois
 
-The talented trio of Damien, Stephane and Sandrine will entertain us with music from the genre *accordion soundbath*.
+The talented trio of Damien, Stephane and Sandrine will entertain us with their instruments, voices and accordions. Get ready to dance!
 
-[Immerse yourself now](https://www.facebook.com/jdst24/videos/772720922868908/) or just [get to know them](http://jdst24.centerblog.net/).
+[Meet the band](https://www.facebook.com/jdst24/videos/772720922868908/)
 
 > <small>The band name translates to "never two without three" and is a French expression that roughly means "things tend to repeat".</small>
 
