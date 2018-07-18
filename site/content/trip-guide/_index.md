@@ -112,7 +112,7 @@ The city is 254 meters tall.
 
 Around 6pm the bus will arrive at our final destination, where you'll be staying for the next two nights.
 
-Like all good convents, this one has a [website](http://www.grandcouventgramat.fr/en/home).
+Like all good convents, this one has a [website](http://www.grandcouventgramat.fr/en/home) where you can learn more about it.
 
 ---
 
