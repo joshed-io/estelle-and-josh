@@ -39,7 +39,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .line {
   content: '';
   position: fixed;
-  background: ##a5e2fd;
+  background: #a5e2fd;
   z-index: 105; }
   .line.top {
     left: 0;
