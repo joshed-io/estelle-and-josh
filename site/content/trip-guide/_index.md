@@ -264,7 +264,17 @@ The talented trio of Damien, Stephane and Sandrine will entertain us with their 
 
 # Return bus trip
 
-We will leave the convent at 12:30pm and arrive in Paris in the early evening around 6pm. We will stop once for food.
+We will leave the convent at 12:30pm and arrive in Paris in the early evening around 6pm. We will make stops for food as necessary.
+
+---
+
+{{% slide background-color="#a5e2fd" %}}
+
+# ❤️
+
+**Thank you** to everyone who donated<br> to help cover the cost of the bus and the lodging!
+
+{{% /slide %}}
 
 ---
 
@@ -282,29 +292,19 @@ For what comes next, please see the [Wedding Weekend Guide](/guide).
 
 {{% slide background-color="#a5e2fd" %}}
 
-{{< add-slide "registry" >}}
-
-{{% /slide %}}
-
----
-
-{{% slide background-color="#a5e2fd" %}}
-
-# ❤️
-
-**Thank you** to everyone who donated<br> to help cover the cost of the bus and the lodging!
-
-{{% /slide %}}
-
----
-
-{{% slide background-color="#a5e2fd" %}}
-
 ![](/images/wedding/worldcup.jpg)
 
 [#EstelleAndJosh](https://www.instagram.com/explore/tags/EstelleAndJosh/)
 
 *Allez les bleus!*
+
+{{% /slide %}}
+
+---
+
+{{% slide background-color="#a5e2fd" %}}
+
+{{< add-slide "registry" >}}
 
 {{% /slide %}}
 
