@@ -10,6 +10,11 @@ og_image = "https://estelle.and.dzello.com/images/assets/heart-frame.png"
 og_image_width = 1600
 og_image_height = 945
 
+[params.reveal_hugo]
+margin = 0.2
+transition = "slide"
+transition_speed = "fast"
+
 [outputFormats.Reveal]
 baseName = "index"
 mediaType = "text/html"

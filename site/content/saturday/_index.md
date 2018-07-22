@@ -5,9 +5,6 @@ outputs = ["Reveal"]
 
 [reveal_hugo]
 custom_theme = "reveal-hugo/themes/sunblind.css"
-margin = 0.2
-transition = "slide"
-transition_speed = "fast"
 +++
 
 {{% slide background-color="#f6f195" %}}
