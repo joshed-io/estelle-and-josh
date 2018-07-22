@@ -24,40 +24,24 @@ transition_speed = "fast"
 
 ---
 
-{{< add-slide "saturday" >}}
+{{% slide content="slides.saturday" /%}}
 
 ---
 
-{{< add-slide "hashtag" >}}
+{{% slide content="slides.hashtag" /%}}
 
 ---
 
-{{% slide background-color="#f6f195" %}}
-
-{{< add-slide "thanks" >}}
-
-{{% /slide %}}
+{{% slide content="slides.thanks" background-color="#f6f195" /%}}
 
 ---
 
-{{% slide background-color="#f6f195" %}}
-
-{{< add-slide "registry" >}}
-
-{{% /slide %}}
+{{% slide content="slides.registry" background-color="#f6f195" /%}}
 
 ---
 
-{{% slide background-color="#f6f195" %}}
-
-{{< add-slide "seeyousoon" >}}
-
-{{% /slide %}}
+{{% slide content="slides.seeyousoon" background-color="#f6f195" /%}}
 
 ---
 
-{{% slide background-color="#f6f195" %}}
-
-{{< add-slide "photos" >}}
-
-{{% /slide %}}
+{{% slide content="slides.photos" background-color="#f6f195" /%}}

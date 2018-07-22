@@ -72,7 +72,7 @@ If you already have a jam-packed Paris itinerary, please don't feel the need to 
 
 ---
 
-{{< add-slide "saturday" >}}
+{{% slide content="slides.saturday" /%}}
 
 ---
 
@@ -117,7 +117,7 @@ Around 3pm we'll move to one of the grassy sitting areas at the [Jardin du Luxem
 
 ---
 
-{{< add-slide "hashtag" >}}
+{{% slide "slides.hashtag" /%}}
 
 ---
 
@@ -150,32 +150,16 @@ Many Paris cafés and restaurants have WiFi, but you can also get a [prepaid SIM
 
 ---
 
-{{% slide background-color="#f6f195" %}}
-
-{{< add-slide "thanks" >}}
-
-{{% /slide %}}
+{{% slide content="slides.thanks" background-color="#f6f195" /%}}
 
 ---
 
-{{% slide background-color="#f6f195" %}}
-
-{{< add-slide "registry" >}}
-
-{{% /slide %}}
+{{% slide content="slides.registry" background-color="#f6f195" /%}}
 
 ---
 
-{{% slide background-color="#f6f195" %}}
-
-{{< add-slide "seeyousoon" >}}
-
-{{% /slide %}}
+{{% slide content="slides.seeyousoon" background-color="#f6f195" /%}}
 
 ---
 
-{{% slide background-color="#f6f195" %}}
-
-{{< add-slide "photos" >}}
-
-{{% /slide %}}
+{{% slide content="slides.photos" background-color="#f6f195" /%}}

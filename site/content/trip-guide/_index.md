@@ -302,16 +302,8 @@ For what comes next, please see the [Wedding Weekend Guide](/guide).
 
 ---
 
-{{% slide background-color="#a5e2fd" %}}
-
-{{< add-slide "registry" >}}
-
-{{% /slide %}}
+{{% slide content="slides.registry" background-color="#a5e2fd" /%}}
 
 ---
 
-{{% slide background-color="#a5e2fd" %}}
-
-{{< add-slide "photos" >}}
-
-{{% /slide %}}
+{{% slide content="slides.photos" background-color="#a5e2fd" /%}}
