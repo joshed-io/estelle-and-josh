@@ -7,7 +7,7 @@ outputs = ["Reveal"]
 custom_theme = "reveal-hugo/themes/sunblind-blue.css"
 +++
 
-{{% slide background-color="#a5e2fd" %}}
+{{% slide id="welcome" background="#a5e2fd" %}}
 
 # 🚌💨
 
@@ -29,7 +29,7 @@ If you're looking for the weekend guide to Paris instead, [find it here](/guide)
 
 ---
 
-{{% slide background-color="#a5e2fd" %}}
+{{% slide background="#a5e2fd" %}}
 
 # 🚌
 
@@ -149,7 +149,7 @@ Breakfast is provided each morning of your accommodation.
 
 ---
 
-{{% slide background-color="#a5e2fd" %}}
+{{% slide background="#a5e2fd" %}}
 
 # 💒️
 
@@ -245,7 +245,7 @@ The talented trio of Damien, Stephane and Sandrine will entertain us with their 
 
 ---
 
-{{% slide background-color="#a5e2fd" %}}
+{{% slide background="#a5e2fd" %}}
 
 # 🚌
 
@@ -265,7 +265,7 @@ We will leave the convent at 12:30pm and arrive in Paris in the early evening ar
 
 ---
 
-{{% slide background-color="#a5e2fd" %}}
+{{% slide background="#a5e2fd" %}}
 
 # ❤️
 
@@ -275,7 +275,7 @@ We will leave the convent at 12:30pm and arrive in Paris in the early evening ar
 
 ---
 
-{{% slide background-color="#a5e2fd" %}}
+{{% slide background="#a5e2fd" %}}
 
 # 🎉
 
@@ -287,7 +287,7 @@ For what comes next, please see the [Wedding Weekend Guide](/guide).
 
 ---
 
-{{% slide background-color="#a5e2fd" %}}
+{{% slide background="#a5e2fd" %}}
 
 ![](/images/wedding/worldcup.jpg)
 
@@ -299,8 +299,12 @@ For what comes next, please see the [Wedding Weekend Guide](/guide).
 
 ---
 
-{{% slide content="slides.registry" background-color="#a5e2fd" /%}}
+{{% slide content="slides.registry" background="#a5e2fd" /%}}
 
 ---
 
-{{% slide content="slides.photos" background-color="#a5e2fd" /%}}
+{{% slide content="slides.photos" background="#a5e2fd" /%}}
+
+---
+
+{{% slide content="slides.replay" background="#a5e2fd" /%}}

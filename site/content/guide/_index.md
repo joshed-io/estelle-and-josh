@@ -7,7 +7,7 @@ outputs = ["Reveal"]
 custom_theme = "reveal-hugo/themes/sunblind.css"
 +++
 
-{{% slide background-color="#f6f195" %}}
+{{% slide id="welcome" background="#f6f195" %}}
 
 # 💒
 
@@ -27,7 +27,7 @@ For offline access, you can [download it as a PDF](/wedding-weekend-guide.pdf).
 
 ---
 
-{{% slide background-color="#f6f195" %}}
+{{% slide background="#f6f195" %}}
 
 # 📆
 
@@ -104,7 +104,7 @@ Around 3pm we'll move to one of the grassy sitting areas at the [Jardin du Luxem
 
 ---
 
-{{% slide background-color="#f6f195" %}}
+{{% slide background="#f6f195" %}}
 
 # 🙋‍
 
@@ -147,16 +147,20 @@ Many Paris cafés and restaurants have WiFi, but you can also get a [prepaid SIM
 
 ---
 
-{{% slide content="slides.thanks" background-color="#f6f195" /%}}
+{{% slide content="slides.thanks" background="#f6f195" /%}}
 
 ---
 
-{{% slide content="slides.registry" background-color="#f6f195" /%}}
+{{% slide content="slides.registry" background="#f6f195" /%}}
 
 ---
 
-{{% slide content="slides.seeyousoon" background-color="#f6f195" /%}}
+{{% slide content="slides.seeyousoon" background="#f6f195" /%}}
 
 ---
 
-{{% slide content="slides.photos" background-color="#f6f195" /%}}
+{{% slide content="slides.photos" background="#f6f195" /%}}
+
+---
+
+{{% slide content="slides.replay" background="#f6f195" /%}}
