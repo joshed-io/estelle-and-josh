@@ -108,7 +108,7 @@ Around 3pm we'll move to one of the grassy sitting areas at the [Jardin du Luxem
 
 ---
 
-{{% slide "slides.hashtag" /%}}
+{{% slide content="slides.hashtag" /%}}
 
 ---
 
