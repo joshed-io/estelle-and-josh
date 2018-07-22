@@ -21,12 +21,6 @@ custom_theme = "reveal-hugo/themes/sunblind.css"
 
 ---
 
-This guide contains information about events happening during the weekend and general tips about being in Paris.
-
-For offline access, you can [download it as a PDF](/wedding-weekend-guide.pdf).
-
----
-
 {{% slide background="#f6f195" %}}
 
 # 📆
