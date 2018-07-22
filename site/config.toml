@@ -15,6 +15,14 @@ margin = 0.2
 transition = "slide"
 transition_speed = "fast"
 
+[params.reveal_hugo.templates.yellow]
+background = "#f6f195"
+transition = "slide-in fade-out"
+
+[params.reveal_hugo.templates.blue]
+background = "#a5e2fd"
+transition = "slide-in fade-out"
+
 [outputFormats.Reveal]
 baseName = "index"
 mediaType = "text/html"

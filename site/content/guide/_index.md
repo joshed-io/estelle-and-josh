@@ -5,9 +5,10 @@ outputs = ["Reveal"]
 
 [reveal_hugo]
 custom_theme = "reveal-hugo/themes/sunblind.css"
+
 +++
 
-{{% slide id="welcome" background="#f6f195" %}}
+{{% slide id="welcome" template="yellow" %}}
 
 # 💒
 
@@ -21,7 +22,7 @@ custom_theme = "reveal-hugo/themes/sunblind.css"
 
 ---
 
-{{% slide background="#f6f195" %}}
+{{% slide template="yellow" %}}
 
 # 📆
 
@@ -98,7 +99,7 @@ Around 3pm we'll move to one of the grassy sitting areas at the [Jardin du Luxem
 
 ---
 
-{{% slide background="#f6f195" %}}
+{{% slide template="yellow" %}}
 
 # 🙋‍
 
@@ -141,20 +142,20 @@ Many Paris cafés and restaurants have WiFi, but you can also get a [prepaid SIM
 
 ---
 
-{{% slide content="slides.thanks" background="#f6f195" /%}}
+{{% slide content="slides.thanks" template="yellow" /%}}
 
 ---
 
-{{% slide content="slides.registry" background="#f6f195" /%}}
+{{% slide content="slides.registry" template="yellow" /%}}
 
 ---
 
-{{% slide content="slides.seeyousoon" background="#f6f195" /%}}
+{{% slide content="slides.seeyousoon" template="yellow" /%}}
 
 ---
 
-{{% slide content="slides.photos" background="#f6f195" /%}}
+{{% slide content="slides.photos" template="yellow" /%}}
 
 ---
 
-{{% slide content="slides.replay" background="#f6f195" /%}}
+{{% slide content="slides.replay" template="yellow" /%}}
