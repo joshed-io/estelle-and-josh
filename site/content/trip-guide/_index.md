@@ -7,7 +7,7 @@ outputs = ["Reveal"]
 custom_theme = "reveal-hugo/themes/sunblind-blue.css"
 +++
 
-{{% slide id="welcome" template="blue" %}}
+{{< slide id="welcome" template="blue" >}}
 
 # 🚌💨
 
@@ -16,8 +16,6 @@ custom_theme = "reveal-hugo/themes/sunblind-blue.css"
 ### Gramat, France &middot; July 25-27, 2018
 
 **[#EstelleAndJosh](https://www.instagram.com/explore/tags/EstelleAndJosh/)**
-
-{{% /slide %}}
 
 ---
 
@@ -29,15 +27,13 @@ If you're looking for the weekend guide to Paris instead, [find it here](/guide)
 
 ---
 
-{{% slide template="blue" %}}
+{{< slide template="blue" >}}
 
 # 🚌
 
 # Wednesday, July 25
 
 **9am**: Bus departs from Paris to Gramat
-
-{{% /slide %}}
 
 ---
 
@@ -149,15 +145,13 @@ Breakfast is provided each morning of your accommodation.
 
 ---
 
-{{% slide template="blue" %}}
+{{< slide template="blue" >}}
 
 # 💒️
 
 # Thursday, July 26
 
 **3pm**: Ceremony, Chapel of the Grant Couvent
-
-{{% /slide %}}
 
 ---
 
@@ -245,15 +239,13 @@ The talented trio of Damien, Stephane and Sandrine will entertain us with their 
 
 ---
 
-{{% slide template="blue" %}}
+{{< slide template="blue" >}}
 
 # 🚌
 
 # Friday, July 27
 
 **12:30pm**: Bus trip from the Grant Couvent to Paris
-
-{{% /slide %}}
 
 ---
 
@@ -265,17 +257,15 @@ We will leave the convent at 12:30pm and arrive in Paris in the early evening ar
 
 ---
 
-{{% slide template="blue" %}}
+{{< slide template="blue" >}}
 
 # ❤️
 
 **Thank you** to everyone who donated<br> to help cover the cost of the bus and the lodging!
 
-{{% /slide %}}
-
 ---
 
-{{% slide template="blue" %}}
+{{< slide template="blue" >}}
 
 # 🎉
 
@@ -283,11 +273,9 @@ We will leave the convent at 12:30pm and arrive in Paris in the early evening ar
 
 For what comes next, please see the [Wedding Weekend Guide](/guide).
 
-{{% /slide %}}
-
 ---
 
-{{% slide template="blue" %}}
+{{< slide template="blue" >}}
 
 ![](/images/wedding/worldcup.jpg)
 
@@ -295,16 +283,14 @@ For what comes next, please see the [Wedding Weekend Guide](/guide).
 
 *Allez les bleus!*
 
-{{% /slide %}}
+---
+
+{{< slide content="slides.registry" template="blue" >}}
 
 ---
 
-{{% slide content="slides.registry" template="blue" /%}}
+{{< slide content="slides.photos" template="blue" >}}
 
 ---
 
-{{% slide content="slides.photos" template="blue" /%}}
-
----
-
-{{% slide content="slides.replay" template="blue" /%}}
+{{< slide content="slides.replay" template="blue" >}}

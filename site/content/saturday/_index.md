@@ -7,7 +7,7 @@ outputs = ["Reveal"]
 custom_theme = "reveal-hugo/themes/sunblind.css"
 +++
 
-{{% slide id="welcome" template="yellow" %}}
+{{< slide id="welcome" template="yellow" >}}
 
 # 💒
 
@@ -17,32 +17,31 @@ custom_theme = "reveal-hugo/themes/sunblind.css"
 
 **[#EstelleAndJosh](https://www.instagram.com/explore/tags/EstelleAndJosh/)**
 
-{{% /slide %}}
 
 ---
 
-{{% slide content="slides.saturday" /%}}
+{{< slide content="slides.saturday" >}}
 
 ---
 
-{{% slide content="slides.hashtag" /%}}
+{{< slide content="slides.hashtag" >}}
 
 ---
 
-{{% slide content="slides.thanks" template="yellow" /%}}
+{{< slide content="slides.thanks" template="yellow" >}}
 
 ---
 
-{{% slide content="slides.registry" template="yellow" /%}}
+{{< slide content="slides.registry" template="yellow" >}}
 
 ---
 
-{{% slide content="slides.seeyousoon" template="yellow" /%}}
+{{< slide content="slides.seeyousoon" template="yellow" >}}
 
 ---
 
-{{% slide content="slides.photos" template="yellow" /%}}
+{{< slide content="slides.photos" template="yellow" >}}
 
 ---
 
-{{% slide content="slides.replay" template="yellow" /%}}
+{{< slide content="slides.replay" template="yellow" >}}

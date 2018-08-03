@@ -8,7 +8,7 @@ custom_theme = "reveal-hugo/themes/sunblind.css"
 
 +++
 
-{{% slide id="welcome" template="yellow" %}}
+{{< slide id="welcome" template="yellow" >}}
 
 # 💒
 
@@ -18,17 +18,13 @@ custom_theme = "reveal-hugo/themes/sunblind.css"
 
 **[#EstelleAndJosh](https://www.instagram.com/explore/tags/EstelleAndJosh/)**
 
-{{% /slide %}}
-
 ---
 
-{{% slide template="yellow" %}}
+{{< slide template="yellow" >}}
 
 # 📆
 
 # Part 1: Schedule of Events
-
-{{% /slide %}}
 
 ---
 
@@ -64,7 +60,7 @@ If you already have a jam-packed Paris itinerary, please don't feel the need to 
 
 ---
 
-{{% slide content="slides.saturday" /%}}
+{{< slide content="slides.saturday" >}}
 
 ---
 
@@ -99,17 +95,15 @@ Around 3pm we'll move to one of the grassy sitting areas at the [Jardin du Luxem
 
 ---
 
-{{% slide template="yellow" %}}
+{{< slide template="yellow" >}}
 
 # 🙋‍
 
 # Part 2: Tips & Information
 
-{{% /slide %}}
-
 ---
 
-{{% slide content="slides.hashtag" /%}}
+{{< slide content="slides.hashtag" >}}
 
 ---
 
@@ -142,20 +136,20 @@ Many Paris cafés and restaurants have WiFi, but you can also get a [prepaid SIM
 
 ---
 
-{{% slide content="slides.thanks" template="yellow" /%}}
+{{< slide content="slides.thanks" template="yellow" >}}
 
 ---
 
-{{% slide content="slides.registry" template="yellow" /%}}
+{{< slide content="slides.registry" template="yellow" >}}
 
 ---
 
-{{% slide content="slides.seeyousoon" template="yellow" /%}}
+{{< slide content="slides.seeyousoon" template="yellow" >}}
 
 ---
 
-{{% slide content="slides.photos" template="yellow" /%}}
+{{< slide content="slides.photos" template="yellow" >}}
 
 ---
 
-{{% slide content="slides.replay" template="yellow" /%}}
+{{< slide content="slides.replay" template="yellow" >}}
