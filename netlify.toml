@@ -3,12 +3,12 @@ command = "npm run build"
 publish = "dist"
 
 [context.production.environment]
-HUGO_VERSION = "0.42"
+HUGO_VERSION = "0.42.2"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
-command = "npm run build-preview"
+HUGO_VERSION = "0.42.2"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.42"
+HUGO_VERSION = "0.42.2"
