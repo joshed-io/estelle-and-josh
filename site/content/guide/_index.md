@@ -80,7 +80,6 @@ If you already have a jam-packed Paris itinerary, please don't feel the need to 
 
 - Come see our apartment and enjoy the best pastries & fruit in the neighborhood.
 - Arrive between noon and 3pm, stay as long or short as you like.
-- Our address is [143 Boulevard Raspail](https://goo.gl/maps/cfBbNe6s2vM2).
 - Metro Vavin Line 4 or Notre-dame-des-Champs Line 6.
 - The building code will be emailed to you, call up when you arrive.
 - If you'd like a beverage with your brunch, please bring something!
